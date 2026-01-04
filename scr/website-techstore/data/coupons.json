@@ -1,0 +1,54 @@
+[
+    {
+        "code": "WELCOME50K",
+        "type": "fixed",
+        "value": 50000,
+        "minOrder": 300000,
+        "maxDiscount": 0,
+        "startAt": "2025-01-01 00:00:00",
+        "endAt": "2026-12-31 23:59:59",
+        "usageLimit": 100,
+        "usedCount": 1,
+        "perUserLimit": 1,
+        "active": true
+    },
+    {
+        "code": "SALE10",
+        "type": "percent",
+        "value": 10,
+        "minOrder": 500000,
+        "maxDiscount": 200000,
+        "startAt": "2025-01-01 00:00:00",
+        "endAt": "2026-12-31 23:59:59",
+        "usageLimit": 999999,
+        "usedCount": 7,
+        "perUserLimit": 3,
+        "active": true
+    },
+    {
+        "code": "HOANGDINH",
+        "type": "fixed",
+        "value": 200000,
+        "minOrder": 1000000,
+        "maxDiscount": 0,
+        "startAt": "2025-12-12 10:00:00",
+        "endAt": "2026-01-01 22:00:00",
+        "usageLimit": 1000,
+        "usedCount": 0,
+        "perUserLimit": 2,
+        "active": true
+    },
+    {
+        "code": "CHAOMUNGDENVOITECHSTORE",
+        "type": "percent",
+        "value": 15,
+        "minOrder": 10000000,
+        "maxDiscount": 2000000,
+        "startAt": "2025-12-25 05:10:00",
+        "endAt": "2026-01-20 05:10:00",
+        "usageLimit": 100,
+        "usedCount": 0,
+        "perUserLimit": 1,
+        "active": false
+    }
+]

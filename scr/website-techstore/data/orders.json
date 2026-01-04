@@ -1,0 +1,976 @@
+[
+    {
+        "id": 1,
+        "username": "Phanhuyentran1408@gmail.com",
+        "items": [
+            {
+                "product_id": 2,
+                "name": "Điện thoại 5G",
+                "qty": 1,
+                "price": 8000000
+            }
+        ],
+        "total": 8000000,
+        "status": "done",
+        "payment_method": "code",
+        "shipping": {
+            "fullname": "demo",
+            "phone": "0123456789",
+            "address": "tra vinh"
+        },
+        "created_at": "2025-11-13 18:43:25"
+    },
+    {
+        "id": 2,
+        "username": "demo@example.com",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "Sạc dự phòng 10000mAh",
+                "qty": 2,
+                "price": 250000
+            },
+            {
+                "product_id": 3,
+                "name": "Ốp lưng điện thoại",
+                "qty": 1,
+                "price": 150000
+            }
+        ],
+        "total": 650000,
+        "status": "done",
+        "payment_method": "cod",
+        "shipping": {
+            "fullname": "Nguyễn Văn Demo",
+            "phone": "0987654321",
+            "address": "123 Đường Demo, Quận 1, TP.HCM"
+        },
+        "created_at": "2025-11-27 09:30:00",
+        "delivered_at": "2025-11-27 20:06:21"
+    },
+    {
+        "id": 3,
+        "username": "huynh",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "iPhone 15 128GB",
+                "qty": 1,
+                "price": 22990000
+            }
+        ],
+        "total": 22990000,
+        "status": "done",
+        "payment_method": "code",
+        "shipping": {
+            "fullname": "lam hưng",
+            "phone": "0123456789",
+            "address": "Tra Vinh"
+        },
+        "created_at": "2025-11-28 04:18:51",
+        "delivered_at": "2025-11-28 04:19:47"
+    },
+    {
+        "id": 4,
+        "username": "thang",
+        "items": [
+            {
+                "product_id": 2,
+                "name": "Samsung Galaxy S23 8GB\/256GB",
+                "qty": 2,
+                "price": 18990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 37980000,
+        "status": "cancel",
+        "payment_method": "cod",
+        "shipping": {
+            "fullname": "demo",
+            "phone": "0123456789",
+            "address": "123,tra vinh"
+        },
+        "created_at": "2025-12-02 20:18:45"
+    },
+    {
+        "id": 5,
+        "username": "thang",
+        "items": [
+            {
+                "product_id": 2,
+                "name": "Samsung Galaxy S23 8GB\/256GB",
+                "qty": 1,
+                "price": 18990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 18990000,
+        "status": "cancel",
+        "payment_method": "code",
+        "shipping": {
+            "fullname": "demo",
+            "phone": "0123456789",
+            "address": "123,tra vinh"
+        },
+        "created_at": "2025-12-02 20:19:01"
+    },
+    {
+        "id": 6,
+        "username": "thang",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "iPhone 15 Plus 128GB",
+                "qty": 2,
+                "price": 22990000,
+                "color": "Trắng"
+            }
+        ],
+        "total": 45980000,
+        "status": "cancel",
+        "payment_method": "code",
+        "shipping": {
+            "fullname": "demo",
+            "phone": "0123456789",
+            "address": "123,tra vinh"
+        },
+        "created_at": "2025-12-02 20:20:28"
+    },
+    {
+        "id": 7,
+        "username": "thang",
+        "items": [
+            {
+                "product_id": 2,
+                "name": "Samsung Galaxy S23 8GB\/256GB",
+                "qty": 1,
+                "price": 18990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 18990000,
+        "status": "cancel",
+        "payment_method": "code",
+        "shipping": {
+            "fullname": "demo",
+            "phone": "0123456789",
+            "address": "123,tra vinh"
+        },
+        "created_at": "2025-12-02 20:34:39"
+    },
+    {
+        "id": 8,
+        "username": "thang",
+        "items": [
+            {
+                "product_id": 2,
+                "name": "Samsung Galaxy S23 8GB\/256GB",
+                "qty": 1,
+                "price": 18990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 18990000,
+        "status": "cancel",
+        "payment_method": "code",
+        "shipping": {
+            "fullname": "demo",
+            "phone": "0123456789",
+            "address": "123,tra vinh"
+        },
+        "created_at": "2025-12-02 20:36:24"
+    },
+    {
+        "id": 9,
+        "username": "thang",
+        "items": [
+            {
+                "product_id": 2,
+                "name": "Samsung Galaxy S23 8GB\/256GB",
+                "qty": 1,
+                "price": 18990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 18990000,
+        "status": "cancel",
+        "payment_method": "code",
+        "shipping": {
+            "fullname": "demo",
+            "phone": "0123456789",
+            "address": "123,tra vinh"
+        },
+        "created_at": "2025-12-02 22:19:38"
+    },
+    {
+        "id": 10,
+        "username": "thang",
+        "items": [
+            {
+                "product_id": 16,
+                "name": "iPhone 15 Pro Max",
+                "qty": 1,
+                "price": 44990000,
+                "color": "Titan Tự nhiên"
+            }
+        ],
+        "total": 44990000,
+        "status": "cancel",
+        "payment_method": "code",
+        "shipping": {
+            "fullname": "demo",
+            "phone": "0123456789",
+            "address": "123,tra vinh"
+        },
+        "created_at": "2025-12-03 08:59:30"
+    },
+    {
+        "id": 11,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "iPhone 15 Plus",
+                "qty": 1,
+                "price": 22990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 22990000,
+        "status": "done",
+        "payment_method": "code",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-05 16:01:11",
+        "delivered_at": "2025-12-06 01:22:40"
+    },
+    {
+        "id": 2,
+        "username": "demo@example.com",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "Sạc dự phòng 10000mAh",
+                "qty": 2,
+                "price": 250000
+            },
+            {
+                "product_id": 3,
+                "name": "Ốp lưng điện thoại",
+                "qty": 1,
+                "price": 150000
+            }
+        ],
+        "total": 650000,
+        "status": "done",
+        "payment_method": "cod",
+        "shipping": {
+            "fullname": "Nguyễn Văn Demo",
+            "phone": "0987654321",
+            "address": "123 Đường Demo, Quận 1, TP.HCM"
+        },
+        "created_at": "2025-10-27 09:30:00",
+        "delivered_at": "2025-10-27 20:06:21"
+    },
+    {
+        "id": 12,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 26,
+                "name": "Asus ROG Zephyrus G16",
+                "qty": 1,
+                "price": 64990000,
+                "color": "Trắng"
+            }
+        ],
+        "total": 64990000,
+        "status": "cancel",
+        "payment_method": "qr_bank",
+        "payment_status": "unpaid",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-12 13:13:49"
+    },
+    {
+        "id": 13,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "iPhone 15 Plus",
+                "qty": 1,
+                "price": 22990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 22990000,
+        "status": "cancel",
+        "payment_method": "qr_bank",
+        "payment_status": "unpaid",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-12 13:19:26"
+    },
+    {
+        "id": 14,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 26,
+                "name": "Asus ROG Zephyrus G16",
+                "qty": 1,
+                "price": 64990000,
+                "color": "Trắng"
+            }
+        ],
+        "total": 64990000,
+        "status": "cancel",
+        "payment_method": "qr_bank",
+        "payment_status": "unpaid",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-12 13:31:12"
+    },
+    {
+        "id": 15,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "iPhone 15 Plus",
+                "qty": 1,
+                "price": 22990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 22990000,
+        "status": "cancel",
+        "payment_method": "qr_bank",
+        "payment_status": "unpaid",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-12 13:32:14"
+    },
+    {
+        "id": 16,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 16,
+                "name": "iPhone 15 Pro Max",
+                "qty": 1,
+                "price": 44990000,
+                "color": "Titan Tự nhiên"
+            }
+        ],
+        "total": 44990000,
+        "status": "done",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-12 13:34:27",
+        "payment_requested_at": "2025-12-12 13:34:30",
+        "paid_at": "2025-12-12 13:35:22",
+        "delivered_at": "2025-12-12 13:35:46"
+    },
+    {
+        "id": 17,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 26,
+                "name": "Asus ROG Zephyrus G16",
+                "qty": 1,
+                "price": 64990000,
+                "color": "Trắng"
+            }
+        ],
+        "total": 64990000,
+        "status": "done",
+        "payment_method": "cod",
+        "payment_status": "cod",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-12 23:29:05",
+        "delivered_at": "2025-12-27 16:26:44"
+    },
+    {
+        "id": 18,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 16,
+                "name": "iPhone 15 Pro Max",
+                "qty": 1,
+                "price": 44990000,
+                "color": "Titan Tự nhiên"
+            }
+        ],
+        "total": 44990000,
+        "status": "shipping",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-12 23:29:20",
+        "payment_requested_at": "2025-12-12 23:30:11",
+        "paid_at": "2025-12-25 05:07:46"
+    },
+    {
+        "id": 19,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 16,
+                "name": "iPhone 15 Pro Max",
+                "qty": 1,
+                "price": 44990000,
+                "color": "Titan Tự nhiên"
+            }
+        ],
+        "total": 44790000,
+        "status": "pending",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-13 02:03:47",
+        "payment_requested_at": "2025-12-13 02:04:03",
+        "paid_at": "2025-12-27 00:07:53"
+    },
+    {
+        "id": 20,
+        "username": "Thắng",
+        "items": [
+            {
+                "product_id": 246,
+                "name": "Anker Soundcore Liberty 4",
+                "qty": 1,
+                "price": 2990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 2790000,
+        "status": "shipping",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Võ Quốc Thắng",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-12-15 02:03:07",
+        "payment_requested_at": "2025-12-15 02:03:14",
+        "paid_at": "2025-12-25 05:08:02"
+    },
+    {
+        "id": 21,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 205,
+                "name": "Nokia 105 4G",
+                "qty": 1,
+                "price": 820000,
+                "color": "Đen"
+            }
+        ],
+        "total": 770000,
+        "status": "pending",
+        "payment_method": "qr_bank",
+        "payment_status": "waiting_confirm",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Đường D5, Hẻm 132, Phường Nguyệt Hóa, Thành Phố Trà Vinh, Tỉnh Vĩnh Long"
+        },
+        "created_at": "2025-12-20 18:45:30",
+        "payment_requested_at": "2025-12-20 18:45:37"
+    },
+    {
+        "id": 22,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "iPhone 15 Plus",
+                "qty": 1,
+                "price": 22990000,
+                "color": "Đen"
+            },
+            {
+                "product_id": 16,
+                "name": "iPhone 15 Pro Max",
+                "qty": 1,
+                "price": 44990000,
+                "color": "Titan Tự nhiên"
+            }
+        ],
+        "total": 67780000,
+        "status": "pending",
+        "payment_method": "qr_bank",
+        "payment_status": "waiting_confirm",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0336323942",
+            "address": "Ấp Xóm Tộ, Xã Đôn Châu,Tỉnh Vĩnh Long"
+        },
+        "created_at": "2025-12-26 15:33:51",
+        "payment_requested_at": "2025-12-26 15:34:18"
+    },
+    {
+        "id": 23,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 16,
+                "name": "iPhone 15 Pro Max",
+                "qty": 1,
+                "price": 44990000,
+                "color": "Titan Tự nhiên"
+            }
+        ],
+        "total": 44990000,
+        "status": "pending",
+        "payment_method": "cod",
+        "payment_status": "cod",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0336323942",
+            "address": "Ấp Xóm Tộ, Xã Đôn Châu,Tỉnh Vĩnh Long"
+        },
+        "created_at": "2025-12-26 15:37:07"
+    },
+    {
+        "id": 24,
+        "username": "nguyenvana@gmail.com",
+        "items": [
+            {
+                "product_id": 30,
+                "name": "Laptop Dell XPS 13",
+                "qty": 1,
+                "price": 35990000,
+                "color": "Bạc"
+            }
+        ],
+        "total": 35990000,
+        "status": "done",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Nguyễn Văn A",
+            "phone": "0912345678",
+            "address": "Quận 3, TP.HCM"
+        },
+        "created_at": "2025-01-15 09:10:00",
+        "paid_at": "2025-01-15 09:15:20",
+        "delivered_at": "2025-01-17 14:30:00"
+    },
+    {
+        "id": 25,
+        "username": "tranthib@gmail.com",
+        "items": [
+            {
+                "product_id": 45,
+                "name": "Bàn phím cơ Keychron K2",
+                "qty": 1,
+                "price": 1850000
+            },
+            {
+                "product_id": 46,
+                "name": "Chuột Logitech MX Master 3S",
+                "qty": 1,
+                "price": 2490000
+            }
+        ],
+        "total": 4340000,
+        "status": "done",
+        "payment_method": "cod",
+        "payment_status": "cod",
+        "shipping": {
+            "fullname": "Trần Thị B",
+            "phone": "0987654123",
+            "address": "Cầu Giấy, Hà Nội"
+        },
+        "created_at": "2025-02-14 10:20:00",
+        "delivered_at": "2025-02-18 16:45:00"
+    },
+    {
+        "id": 26,
+        "username": "leminh@example.com",
+        "items": [
+            {
+                "product_id": 12,
+                "name": "iPad Air 5 M1 Wifi 64GB",
+                "qty": 1,
+                "price": 13990000,
+                "color": "Xanh dương"
+            }
+        ],
+        "total": 13990000,
+        "status": "done",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Lê Minh",
+            "phone": "0909123456",
+            "address": "Hải Châu, Đà Nẵng"
+        },
+        "created_at": "2025-03-08 20:05:00",
+        "paid_at": "2025-03-08 20:08:15",
+        "delivered_at": "2025-03-10 11:15:00"
+    },
+    {
+        "id": 27,
+        "username": "phamhoang@gmail.com",
+        "items": [
+            {
+                "product_id": 50,
+                "name": "Tai nghe Sony WH-1000XM5",
+                "qty": 1,
+                "price": 6490000,
+                "color": "Đen"
+            }
+        ],
+        "total": 6490000,
+        "status": "done",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Phạm Hoàng",
+            "phone": "0933445566",
+            "address": "Ninh Kiều, Cần Thơ"
+        },
+        "created_at": "2025-04-22 14:15:30",
+        "paid_at": "2025-04-22 14:20:00",
+        "delivered_at": "2025-04-24 09:30:00"
+    },
+    {
+        "id": 28,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 88,
+                "name": "Màn hình LG UltraGear 27 inch",
+                "qty": 2,
+                "price": 5500000
+            }
+        ],
+        "total": 11000000,
+        "status": "done",
+        "payment_method": "cod",
+        "payment_status": "cod",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-05-10 08:30:00",
+        "delivered_at": "2025-05-12 15:20:00"
+    },
+    {
+        "id": 29,
+        "username": "customer_vip@techstore.vn",
+        "items": [
+            {
+                "product_id": 20,
+                "name": "MacBook Air M2 13 inch",
+                "qty": 1,
+                "price": 26990000,
+                "color": "Midnight"
+            },
+            {
+                "product_id": 21,
+                "name": "Chuột Magic Mouse 2",
+                "qty": 1,
+                "price": 1990000
+            }
+        ],
+        "total": 28980000,
+        "status": "done",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Khách hàng VIP",
+            "phone": "0999888777",
+            "address": "Biên Hòa, Đồng Nai"
+        },
+        "created_at": "2025-06-15 11:45:00",
+        "paid_at": "2025-06-15 11:50:10",
+        "delivered_at": "2025-06-17 10:00:00"
+    },
+    {
+        "id": 30,
+        "username": "thang",
+        "items": [
+            {
+                "product_id": 99,
+                "name": "Loa Bluetooth JBL Flip 6",
+                "qty": 1,
+                "price": 2590000,
+                "color": "Đỏ"
+            }
+        ],
+        "total": 2590000,
+        "status": "done",
+        "payment_method": "cod",
+        "payment_status": "cod",
+        "shipping": {
+            "fullname": "Võ Quốc Thắng",
+            "phone": "0123456789",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-07-20 16:20:00",
+        "delivered_at": "2025-07-22 13:15:00"
+    },
+    {
+        "id": 31,
+        "username": "student_it@uni.edu.vn",
+        "items": [
+            {
+                "product_id": 60,
+                "name": "Laptop ASUS TUF Gaming F15",
+                "qty": 1,
+                "price": 19490000,
+                "color": "Xám Jaeger"
+            }
+        ],
+        "total": 19490000,
+        "status": "done",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Nguyễn Văn Sinh Viên",
+            "phone": "0345678901",
+            "address": "Thủ Đức, TP.HCM"
+        },
+        "created_at": "2025-08-25 09:00:00",
+        "paid_at": "2025-08-25 09:05:30",
+        "delivered_at": "2025-08-27 17:30:00"
+    },
+    {
+        "id": 32,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 16,
+                "name": "iPhone 15 Pro Max",
+                "qty": 1,
+                "price": 44990000,
+                "color": "Titan Xanh"
+            },
+            {
+                "product_id": 3,
+                "name": "Ốp lưng MagSafe",
+                "qty": 1,
+                "price": 1250000
+            }
+        ],
+        "total": 46240000,
+        "status": "done",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0967492242",
+            "address": "Trà Vinh"
+        },
+        "created_at": "2025-09-09 21:15:00",
+        "paid_at": "2025-09-09 21:18:45",
+        "delivered_at": "2025-09-11 08:45:00"
+    },
+    {
+        "id": 33,
+        "username": "hoangmai@gmail.com",
+        "items": [
+            {
+                "product_id": 75,
+                "name": "Samsung Galaxy Watch 6",
+                "qty": 1,
+                "price": 5990000,
+                "color": "Vàng kem"
+            }
+        ],
+        "total": 5990000,
+        "status": "done",
+        "payment_method": "cod",
+        "payment_status": "cod",
+        "shipping": {
+            "fullname": "Hoàng Thị Mai",
+            "phone": "0918273645",
+            "address": "Vũng Tàu"
+        },
+        "created_at": "2025-10-15 13:40:00",
+        "delivered_at": "2025-10-17 11:20:00"
+    },
+    {
+        "id": 34,
+        "username": "VuDoanThang",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "iPhone 15 Plus",
+                "qty": 1,
+                "price": 22990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 22790000,
+        "status": "pending",
+        "payment_method": "qr_bank",
+        "payment_status": "unpaid",
+        "shipping": {
+            "fullname": "Vũ Đoàn Thắng",
+            "phone": "0918273645",
+            "address": "Ấp Giồng Giếng, Xã Dân Thành, Thị xã Duyên Hải, Tỉnh Vĩnh Long"
+        },
+        "created_at": "2026-01-03 05:24:11"
+    },
+    {
+        "id": 35,
+        "username": "VuDoanThang",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "iPhone 15 Plus",
+                "qty": 1,
+                "price": 22990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 22990000,
+        "status": "cancel",
+        "payment_method": "qr_bank",
+        "payment_status": "unpaid",
+        "shipping": {
+            "fullname": "Vũ Đoàn Thắng",
+            "phone": "0918273645",
+            "address": "Ấp Giồng Giếng, Xã Dân Thành, Thị xã Duyên Hải, Tỉnh Vĩnh Long"
+        },
+        "created_at": "2026-01-03 05:24:25"
+    },
+    {
+        "id": 36,
+        "username": "VuDoanThang",
+        "items": [
+            {
+                "product_id": 1,
+                "name": "iPhone 15 Plus",
+                "qty": 1,
+                "price": 22990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 22790000,
+        "status": "cancel",
+        "payment_method": "qr_bank",
+        "payment_status": "unpaid",
+        "shipping": {
+            "fullname": "Vũ Đoàn Thắng",
+            "phone": "0918273645",
+            "address": "Ấp Giồng Giếng, Xã Dân Thành, Thị xã Duyên Hải, Tỉnh Vĩnh Long"
+        },
+        "created_at": "2026-01-03 05:25:16"
+    },
+    {
+        "id": 37,
+        "username": "VuDoanThang",
+        "items": [
+            {
+                "product_id": 16,
+                "name": "iPhone 15 Pro Max",
+                "qty": 1,
+                "price": 44990000,
+                "color": "Titan Tự nhiên"
+            }
+        ],
+        "total": 44790000,
+        "status": "pending",
+        "payment_method": "qr_bank",
+        "payment_status": "paid",
+        "shipping": {
+            "fullname": "Vũ Đoàn Thắng",
+            "phone": "0918273645",
+            "address": "Ấp Giồng Giếng, Xã Dân Thành, Thị xã Duyên Hải, Tỉnh Vĩnh Long"
+        },
+        "created_at": "2026-01-03 05:27:40",
+        "payment_requested_at": "2026-01-03 05:27:44",
+        "paid_at": "2026-01-03 05:28:36"
+    },
+    {
+        "id": 38,
+        "username": "VuDoanThang",
+        "items": [
+            {
+                "product_id": 17,
+                "name": "Samsung Galaxy S24 Ultra",
+                "qty": 1,
+                "price": 44490000,
+                "color": "Xám Titan"
+            }
+        ],
+        "total": 44490000,
+        "status": "pending",
+        "payment_method": "cod",
+        "payment_status": "cod",
+        "shipping": {
+            "fullname": "Vũ Đoàn Thắng",
+            "phone": "0918273645",
+            "address": "Ấp Giồng Giếng, Xã Dân Thành, Thị xã Duyên Hải, Tỉnh Vĩnh Long"
+        },
+        "created_at": "2026-01-03 05:27:59"
+    },
+    {
+        "id": 39,
+        "username": "Dinh",
+        "items": [
+            {
+                "product_id": 2,
+                "name": "Samsung Galaxy S23",
+                "qty": 1,
+                "price": 18990000,
+                "color": "Đen"
+            }
+        ],
+        "total": 18790000,
+        "status": "pending",
+        "payment_method": "qr_bank",
+        "payment_status": "waiting_confirm",
+        "shipping": {
+            "fullname": "Phan Hoàng Dinh",
+            "phone": "0336323942",
+            "address": "Ấp Xóm Tộ, Xã Đôn Châu,Tỉnh Vĩnh Long"
+        },
+        "created_at": "2026-01-04 00:08:48",
+        "payment_requested_at": "2026-01-04 00:09:02"
+    }
+]

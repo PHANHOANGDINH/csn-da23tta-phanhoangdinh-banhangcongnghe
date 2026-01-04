@@ -1,0 +1,5423 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Plus",
+        "price": 22990000,
+        "category": "Điện thoại",
+        "image": "AT-T-Apple-iPhone-15-Plus-128GB.png",
+        "specs": {
+            "Màn hình": "6.1 inch OLED, 60Hz",
+            "CPU": "Apple A16 Bionic",
+            "RAM": "6GB",
+            "Bộ nhớ": "128GB",
+            "Camera": "48MP + 12MP",
+            "Pin": "3349 mAh"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Đen",
+            "Trắng",
+            "Xanh dương"
+        ],
+        "images": [
+            "AT-T-Apple-iPhone-15-Plus-128GB.png",
+            "Apple-15-plus-128gb.png"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S23",
+        "price": 18990000,
+        "category": "Điện thoại",
+        "image": "samsung-galaxy-s23-2.png",
+        "specs": {
+            "Màn hình": "Màn hình: 6.1 inch AMOLED 120Hz",
+            "CPU": "CPU: Snapdragon 8 Gen 2",
+            "RAM": "RAM: 8GB",
+            "Bộ nhớ": "Bộ nhớ: 256GB",
+            "Camera": "Camera: 50MP + 12MP + 10MP",
+            "Pin": "Pin: 3900 mAh"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Đen",
+            "Kem",
+            "Xanh lá"
+        ],
+        "images": [
+            "samsung-galaxy-s23-2.png",
+            "samsung-galaxy-s23-1.png",
+            "samsung-galaxy-s23.png"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 3,
+        "name": "Asus VivoBook 15",
+        "price": 15990000,
+        "category": "Laptop",
+        "image": "Asus_VivoBook_15.png",
+        "specs": {
+            "Màn hình": "15.6 inch FHD",
+            "CPU": "Intel Core i5-1240P",
+            "RAM": "8GB DDR4",
+            "Ổ cứng": "512GB SSD",
+            "GPU": "Intel Iris Xe",
+            "Hệ điều hành": "Windows 11"
+        },
+        "brand": "Asus",
+        "colors": [
+            "Bạc",
+            "Xám"
+        ],
+        "images": [
+            "Asus_VivoBook_15.png",
+            "Asus_VivoBook_15_1.png",
+            "Asus_VivoBook_15_2.png"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 4,
+        "name": "Màn hình LG 24 inch",
+        "price": 2990000,
+        "category": "PC - Màn hình",
+        "image": "lg_24_inch_75hz.png",
+        "specs": {
+            "Kích thước": "24 inch",
+            "Độ phân giải": "Màn-hình_LG_24_inch.png",
+            "Tấm nền": "IPS",
+            "Tần số quét": "75Hz",
+            "Cổng kết nối": "HDMI, DisplayPort"
+        },
+        "brand": "LG",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "Màn_hình_LG_24_inch_1.png",
+            "Màn-hình_LG_24_inch.png",
+            "Màn_hình_LG_24_inch_2.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "name": "Sony WH-CH520",
+        "price": 1490000,
+        "category": "Âm thanh",
+        "image": "Sony_WH-CH520.png",
+        "specs": {
+            "Kiểu": "Tai nghe bluetooth chụp tai",
+            "Kết nối": "Bluetooth 5.2",
+            "Thời lượng pin": "Lên đến 50 giờ",
+            "Sạc": "USB-C",
+            "Micro": "Tích hợp đàm thoại"
+        },
+        "brand": "Sony",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "Sony_WH-CH520.png",
+            "Sony_WH-CH520_1.png",
+            "Sony_WH-CH520_2.png",
+            "Sony_WH-CH520_3.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 6,
+        "name": "Logitech G102 Lightsync",
+        "price": 490000,
+        "category": "Phụ kiện",
+        "image": "logitech_g102.png",
+        "specs": {
+            "Kết nối": "Có dây USB",
+            "Độ phân giải": "200 – 8.000 DPI",
+            "Đèn": "RGB Lightsync",
+            "Số nút": "6 nút lập trình",
+            "Tương thích": "Windows, macOS"
+        },
+        "brand": "Logitech",
+        "colors": [
+            "Đen",
+            "Trắng",
+            "Tím"
+        ],
+        "images": [
+            "logitech_g102.png",
+            "logitech_g102_1.png",
+            "logitech_g102_2.png",
+            "logitech_g102_3.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 7,
+        "name": "Sạc dự phòng Xiaomi",
+        "price": 399000,
+        "category": "Phụ kiện",
+        "image": "xiaomi_powerbank_20000.png",
+        "specs": {
+            "Dung lượng": "20000 mAh",
+            "Cổng": "USB-A x2, USB-C x1",
+            "Công suất": "18W",
+            "Trọng lượng": "450g",
+            "Phù hợp": "Android, iPhone"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "xiaomi_powerbank_20000.png",
+            "xiaomi_powerbank_20000_1.png",
+            "xiaomi_powerbank_20000_2.png",
+            "xiaomi_powerbank_20000_3.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 8,
+        "name": "Anker PowerCore 10000",
+        "price": 299000,
+        "category": "Phụ kiện",
+        "image": "anker_powercore_10000.png",
+        "specs": {
+            "Dung lượng": "10000 mAh",
+            "Cổng": "USB-A x1",
+            "Công suất": "12W",
+            "Trọng lượng": "180g",
+            "Phù hợp": "Android, iPhone"
+        },
+        "brand": "Anker",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "anker_powercore_10000.png",
+            "anker_powercore_10000_1.png",
+            "anker_powercore_10000_2.png",
+            "anker_powercore_10000_3.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 9,
+        "name": "JBL Tune 510BT",
+        "price": 790000,
+        "category": "Âm thanh",
+        "image": "jbl_tune_510bt.png",
+        "specs": {
+            "Kiểu": "Tai chụp tai",
+            "Kết nối": "Bluetooth 5.0",
+            "Thời lượng pin": "40 giờ",
+            "Trọng lượng": "160g",
+            "Micro": "Tích hợp"
+        },
+        "brand": "JBL",
+        "colors": [
+            "Đen",
+            "Xanh dương"
+        ],
+        "images": [
+            "jbl_tune_510bt.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "name": "SSD Samsung 970 EVO Plus",
+        "price": 3590000,
+        "category": "Phụ kiện",
+        "image": "samsung_970_evo_plus_1tb.png",
+        "specs": {
+            "Chuẩn": "NVMe M.2 2280",
+            "Dung lượng": "1TB",
+            "Tốc độ đọc": "Lên đến 3500 MB\/s",
+            "Tốc độ ghi": "Lên đến 3300 MB\/s",
+            "Bảo hành": "5 năm"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "samsung_970_evo_plus_1tb.png"
+        ],
+        "stock": 18
+    },
+    {
+        "id": 11,
+        "name": "Apple Watch SE",
+        "price": 4990000,
+        "category": "Phụ kiện",
+        "image": "apple_watch_se_40.png",
+        "specs": {
+            "Màn hình": "Retina OLED",
+            "Chip": "S5",
+            "Bộ nhớ": "32GB",
+            "Tính năng": "GPS, đo nhịp tim",
+            "Khả năng chống nước": "50m"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Trắng",
+            "Hồng"
+        ],
+        "images": [
+            "apple_watch_se_40.png"
+        ],
+        "stock": 22
+    },
+    {
+        "id": 12,
+        "name": "TP-Link Archer C6",
+        "price": 690000,
+        "category": "Thiết bị mạng",
+        "image": "tp_link_archer_c6.png",
+        "specs": {
+            "Chuẩn": "802.11ac (Wi-Fi 5)",
+            "Băng tần": "2.4GHz + 5GHz",
+            "Tốc độ": "AC1200",
+            "Cổng": "Gigabit WAN + 4 LAN",
+            "Anten": "4 anten ngoài"
+        },
+        "brand": "TP-Link",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "tp_link_archer_c6.png"
+        ],
+        "stock": 16
+    },
+    {
+        "id": 13,
+        "name": "Dell Inspiron 14",
+        "price": 17990000,
+        "category": "Laptop",
+        "image": "dell_inspiron_14.png",
+        "specs": {
+            "Màn hình": "14 inch FHD",
+            "CPU": "Intel Core i5-1135G7",
+            "RAM": "8GB",
+            "Ổ cứng": "512GB SSD",
+            "GPU": "Intel Iris Xe",
+            "Hệ điều hành": "Windows 11"
+        },
+        "brand": "Dell",
+        "colors": [
+            "Bạc",
+            "Đen"
+        ],
+        "images": [
+            "dell_inspiron_14.png"
+        ],
+        "stock": 9
+    },
+    {
+        "id": 14,
+        "name": "Màn hình Acer 27 inch",
+        "price": 4590000,
+        "category": "PC - Màn hình",
+        "image": "acer_27_144hz.png",
+        "specs": {
+            "Kích thước": "27 inch",
+            "Độ phân giải": "1920x1080",
+            "Tấm nền": "VA",
+            "Tần số quét": "144Hz",
+            "Thời gian phản hồi": "1ms"
+        },
+        "brand": "Acer",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "acer_27_144hz.png"
+        ],
+        "stock": 14
+    },
+    {
+        "id": 15,
+        "name": "Baseus EK87",
+        "price": 1290000,
+        "category": "Phụ kiện",
+        "image": "dareu_ek87.png",
+        "specs": {
+            "Loại switch": "Outemu Blue",
+            "Kết nối": "USB-C có dây",
+            "Layout": "Tenkeyless (87 phím)",
+            "Đèn": "RGB 16.8 triệu màu",
+            "Tương thích": "Windows, macOS (chế độ tương thích)"
+        },
+        "brand": "Baseus",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "dareu_ek87.png"
+        ],
+        "stock": 28
+    },
+    {
+        "id": 16,
+        "name": "iPhone 15 Pro Max",
+        "price": 44990000,
+        "category": "Điện thoại",
+        "image": "iphone-15-pro-max-titan.png",
+        "specs": {
+            "Màn hình": "6.7\" OLED 120Hz",
+            "CPU": "Apple A17 Pro",
+            "RAM": "8GB",
+            "Bộ nhớ": "1TB"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Titan Tự nhiên",
+            "Titan Xanh",
+            "Titan Đen"
+        ],
+        "images": [
+            "iphone-15-pro-max-titan.png"
+        ],
+        "stock": 13
+    },
+    {
+        "id": 17,
+        "name": "Samsung Galaxy S24 Ultra",
+        "price": 44490000,
+        "category": "Điện thoại",
+        "image": "samsung-s24-ultra.png",
+        "specs": {
+            "Màn hình": "6.8\" QHD+ 120Hz",
+            "CPU": "Snapdragon 8 Gen 3",
+            "RAM": "12GB",
+            "Bộ nhớ": "1TB"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Xám Titan",
+            "Vàng Titan",
+            "Tím Titan"
+        ],
+        "images": [
+            "samsung-s24-ultra.png"
+        ],
+        "stock": 14
+    },
+    {
+        "id": 18,
+        "name": "Xiaomi 14 Ultra",
+        "price": 29990000,
+        "category": "Điện thoại",
+        "image": "xiaomi-14-ultra.png",
+        "specs": {
+            "Màn hình": "6.73\" AMOLED 120Hz",
+            "CPU": "Snapdragon 8 Gen 3",
+            "RAM": "16GB",
+            "Bộ nhớ": "512GB"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "xiaomi-14-ultra.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "name": "OPPO Find N3",
+        "price": 41990000,
+        "category": "Điện thoại",
+        "image": "oppo-find-n3.png",
+        "specs": {
+            "Màn hình": "7.82\" & 6.31\"",
+            "CPU": "Snapdragon 8 Gen 2",
+            "RAM": "16GB",
+            "Bộ nhớ": "512GB"
+        },
+        "brand": "OPPO",
+        "colors": [
+            "Vàng",
+            "Đen"
+        ],
+        "images": [
+            "oppo-find-n3.png"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 20,
+        "name": "vivo X100 Pro",
+        "price": 23990000,
+        "category": "Điện thoại",
+        "image": "vivo-x100-pro.png",
+        "specs": {
+            "Màn hình": "6.78\" AMOLED 120Hz",
+            "CPU": "Dimensity 9300",
+            "RAM": "12GB",
+            "Bộ nhớ": "256GB"
+        },
+        "brand": "vivo",
+        "colors": [
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "vivo-x100-pro.png"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 21,
+        "name": "Samsung Galaxy Z Flip6",
+        "price": 26990000,
+        "category": "Điện thoại",
+        "image": "samsung-z-flip6.png",
+        "specs": {
+            "Màn hình": "6.7\" Foldable",
+            "CPU": "Snapdragon 8 Gen 3",
+            "RAM": "8GB",
+            "Bộ nhớ": "256GB"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Xanh Mint",
+            "Xám",
+            "Vàng"
+        ],
+        "images": [
+            "samsung-z-flip6.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 22,
+        "name": "iPhone 15",
+        "price": 19990000,
+        "category": "Điện thoại",
+        "image": "iphone-15.png",
+        "specs": {
+            "Màn hình": "6.1\" OLED 60Hz",
+            "CPU": "Apple A16 Bionic",
+            "RAM": "6GB",
+            "Bộ nhớ": "128GB"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Hồng",
+            "Xanh lá",
+            "Vàng",
+            "Đen"
+        ],
+        "images": [
+            "iphone-15.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 23,
+        "name": "realme GT5 Pro",
+        "price": 13500000,
+        "category": "Điện thoại",
+        "image": "realme-gt5-pro.png",
+        "specs": {
+            "Màn hình": "6.78\" 144Hz",
+            "CPU": "Snapdragon 8 Gen 3",
+            "RAM": "12GB",
+            "Bộ nhớ": "256GB"
+        },
+        "brand": "realme",
+        "colors": [
+            "Cam",
+            "Đen"
+        ],
+        "images": [
+            "realme-gt5-pro.png"
+        ],
+        "stock": 12
+    },
+    {
+        "id": 24,
+        "name": "Xiaomi Redmi Note 13 Pro+",
+        "price": 9990000,
+        "category": "Điện thoại",
+        "image": "redmi-note-13-pro-plus.png",
+        "specs": {
+            "Màn hình": "6.67\" 1.5K 120Hz",
+            "CPU": "Dimensity 7200 Ultra",
+            "RAM": "8GB",
+            "Bộ nhớ": "256GB"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Tím",
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "redmi-note-13-pro-plus.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 25,
+        "name": "Nokia G42",
+        "price": 4990000,
+        "category": "Điện thoại",
+        "image": "nokia-g42.png",
+        "specs": {
+            "Màn hình": "6.56\" 90Hz",
+            "CPU": "Snapdragon 480+",
+            "RAM": "6GB",
+            "Bộ nhớ": "128GB"
+        },
+        "brand": "Nokia",
+        "colors": [
+            "Tím",
+            "Xám"
+        ],
+        "images": [
+            "nokia-g42.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 26,
+        "name": "Asus ROG Zephyrus G16",
+        "price": 64990000,
+        "category": "Laptop",
+        "image": "asus-rog-zephyrus-g16.png",
+        "specs": {
+            "CPU": "Core Ultra 9",
+            "RAM": "32GB",
+            "SSD": "1TB",
+            "VGA": "RTX 4070"
+        },
+        "brand": "Asus",
+        "colors": [
+            "Trắng",
+            "Xám"
+        ],
+        "images": [
+            "asus-rog-zephyrus-g16.png"
+        ],
+        "stock": 2
+    },
+    {
+        "id": 27,
+        "name": "Dell XPS 16",
+        "price": 79990000,
+        "category": "Laptop",
+        "image": "dell-xps-16.png",
+        "specs": {
+            "CPU": "Core Ultra 7",
+            "RAM": "32GB",
+            "SSD": "1TB",
+            "VGA": "RTX 4060"
+        },
+        "brand": "Dell",
+        "colors": [
+            "Bạch kim"
+        ],
+        "images": [
+            "dell-xps-16.png"
+        ],
+        "stock": 3
+    },
+    {
+        "id": 28,
+        "name": "HP Spectre x360 14",
+        "price": 42990000,
+        "category": "Laptop",
+        "image": "hp-spectre-x360.png",
+        "specs": {
+            "CPU": "Core Ultra 7",
+            "RAM": "32GB",
+            "SSD": "1TB",
+            "Màn hình": "OLED 2.8K"
+        },
+        "brand": "HP",
+        "colors": [
+            "Xanh Navy"
+        ],
+        "images": [
+            "hp-spectre-x360.png"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 29,
+        "name": "Lenovo Legion 7i",
+        "price": 45990000,
+        "category": "Laptop",
+        "image": "lenovo-legion-7i.png",
+        "specs": {
+            "CPU": "Core i9 14900HX",
+            "RAM": "32GB",
+            "SSD": "1TB",
+            "VGA": "RTX 4070"
+        },
+        "brand": "Lenovo",
+        "colors": [
+            "Xám Bão"
+        ],
+        "images": [
+            "lenovo-legion-7i.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 30,
+        "name": "MSI Titan 18 HX",
+        "price": 119990000,
+        "category": "Laptop",
+        "image": "msi-titan-18.png",
+        "specs": {
+            "CPU": "Core i9 14900HX",
+            "RAM": "128GB",
+            "SSD": "4TB",
+            "VGA": "RTX 4090"
+        },
+        "brand": "MSI",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "msi-titan-18.png"
+        ],
+        "stock": 1
+    },
+    {
+        "id": 31,
+        "name": "Acer Swift Go 14",
+        "price": 22990000,
+        "category": "Laptop",
+        "image": "acer-swift-go-14.png",
+        "specs": {
+            "CPU": "Core Ultra 5",
+            "RAM": "16GB",
+            "SSD": "512GB",
+            "Màn hình": "OLED 2.8K"
+        },
+        "brand": "Acer",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "acer-swift-go-14.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 32,
+        "name": "Asus Zenbook Duo",
+        "price": 49990000,
+        "category": "Laptop",
+        "image": "asus-zenbook-duo.png",
+        "specs": {
+            "CPU": "Core Ultra 9",
+            "RAM": "32GB",
+            "SSD": "1TB",
+            "Màn hình": "2x 14\" OLED"
+        },
+        "brand": "Asus",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "asus-zenbook-duo.png"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 33,
+        "name": "Dell Inspiron 14 Plus",
+        "price": 24990000,
+        "category": "Laptop",
+        "image": "dell-inspiron-14.png",
+        "specs": {
+            "CPU": "Core i7 13620H",
+            "RAM": "16GB",
+            "SSD": "1TB",
+            "VGA": "RTX 3050"
+        },
+        "brand": "Dell",
+        "colors": [
+            "Xanh Ice Blue"
+        ],
+        "images": [
+            "dell-inspiron-14.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 34,
+        "name": "Lenovo Yoga Slim 7i",
+        "price": 26990000,
+        "category": "Laptop",
+        "image": "lenovo-yoga-slim-7i.png",
+        "specs": {
+            "CPU": "Core Ultra 5",
+            "RAM": "16GB",
+            "SSD": "512GB",
+            "Màn hình": "OLED"
+        },
+        "brand": "Lenovo",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "lenovo-yoga-slim-7i.png"
+        ],
+        "stock": 12
+    },
+    {
+        "id": 35,
+        "name": "Acer Predator Helios Neo 16",
+        "price": 37990000,
+        "category": "Laptop",
+        "image": "acer-predator-helios.png",
+        "specs": {
+            "CPU": "Core i7 14700HX",
+            "RAM": "16GB",
+            "SSD": "512GB",
+            "VGA": "RTX 4060"
+        },
+        "brand": "Acer",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "acer-predator-helios.png"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 36,
+        "name": "LG UltraGear 45GR95QE",
+        "price": 34990000,
+        "category": "PC - Màn hình",
+        "image": "lg-ultragear-oled-45.png",
+        "specs": {
+            "Kích thước": "45 inch Cong",
+            "Độ phân giải": "OLED WQHD",
+            "Tần số quét": "240Hz"
+        },
+        "brand": "LG",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "lg-ultragear-oled-45.png"
+        ],
+        "stock": 3
+    },
+    {
+        "id": 37,
+        "name": "ViewSonic ColorPro VP2786",
+        "price": 29990000,
+        "category": "PC - Màn hình",
+        "image": "viewsonic-vp2786.png",
+        "specs": {
+            "Kích thước": "27 inch",
+            "Độ phân giải": "4K UHD",
+            "Chuẩn màu": "100% AdobeRGB"
+        },
+        "brand": "ViewSonic",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "viewsonic-vp2786.png"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 38,
+        "name": "Gigabyte AORUS FO32U2P",
+        "price": 32990000,
+        "category": "PC - Màn hình",
+        "image": "gigabyte-aorus-fo32u2p.png",
+        "specs": {
+            "Kích thước": "32 inch",
+            "Độ phân giải": "4K OLED",
+            "Tần số quét": "240Hz"
+        },
+        "brand": "Gigabyte",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "gigabyte-aorus-fo32u2p.png"
+        ],
+        "stock": 4
+    },
+    {
+        "id": 39,
+        "name": "AOC Agon Pro AG276QZD",
+        "price": 19990000,
+        "category": "PC - Màn hình",
+        "image": "aoc-agon-pro-oled.png",
+        "specs": {
+            "Kích thước": "26.5 inch",
+            "Độ phân giải": "2K OLED",
+            "Tần số quét": "240Hz"
+        },
+        "brand": "AOC",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "aoc-agon-pro-oled.png"
+        ],
+        "stock": 6
+    },
+    {
+        "id": 40,
+        "name": "LG 27UP850N",
+        "price": 9590000,
+        "category": "PC - Màn hình",
+        "image": "lg-27up850n.png",
+        "specs": {
+            "Kích thước": "27 inch",
+            "Độ phân giải": "4K IPS",
+            "Cổng": "USB-C 90W"
+        },
+        "brand": "LG",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "lg-27up850n.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 41,
+        "name": "ViewSonic VX2728J",
+        "price": 5490000,
+        "category": "PC - Màn hình",
+        "image": "viewsonic-vx2728j.png",
+        "specs": {
+            "Kích thước": "27 inch",
+            "Độ phân giải": "2K QHD",
+            "Tần số quét": "165Hz"
+        },
+        "brand": "ViewSonic",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "viewsonic-vx2728j.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 42,
+        "name": "Gigabyte G24F 2",
+        "price": 3590000,
+        "category": "PC - Màn hình",
+        "image": "gigabyte-g24f2.png",
+        "specs": {
+            "Kích thước": "24 inch",
+            "Độ phân giải": "FHD IPS",
+            "Tần số quét": "180Hz"
+        },
+        "brand": "Gigabyte",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "gigabyte-g24f2.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 43,
+        "name": "AOC 24G4 Gaming",
+        "price": 3290000,
+        "category": "PC - Màn hình",
+        "image": "aoc-24g4.png",
+        "specs": {
+            "Kích thước": "23.8 inch",
+            "Độ phân giải": "FHD IPS",
+            "Tần số quét": "180Hz"
+        },
+        "brand": "AOC",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "aoc-24g4.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 44,
+        "name": "LG MyView Smart Monitor",
+        "price": 8990000,
+        "category": "PC - Màn hình",
+        "image": "lg-myview-32.png",
+        "specs": {
+            "Kích thước": "32 inch",
+            "Độ phân giải": "4K",
+            "Hệ điều hành": "webOS"
+        },
+        "brand": "LG",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "lg-myview-32.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 45,
+        "name": "ViewSonic VA2432-H",
+        "price": 2490000,
+        "category": "PC - Màn hình",
+        "image": "viewsonic-va2432.png",
+        "specs": {
+            "Kích thước": "24 inch",
+            "Độ phân giải": "FHD",
+            "Tần số quét": "100Hz"
+        },
+        "brand": "ViewSonic",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "viewsonic-va2432.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 46,
+        "name": "Sony WH-1000XM5",
+        "price": 8490000,
+        "category": "Âm thanh",
+        "image": "sony-wh-1000xm5.png",
+        "specs": {
+            "Loại": "Tai nghe chụp tai",
+            "Pin": "30h",
+            "Chống ồn": "ANC Đỉnh cao"
+        },
+        "brand": "Sony",
+        "colors": [
+            "Bạc",
+            "Đen",
+            "Xanh Midnight"
+        ],
+        "images": [
+            "sony-wh-1000xm5.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 47,
+        "name": "JBL PartyBox Ultimate",
+        "price": 39900000,
+        "category": "Âm thanh",
+        "image": "jbl-partybox-ultimate.png",
+        "specs": {
+            "Công suất": "1100W",
+            "Tính năng": "Dolby Atmos",
+            "Kết nối": "Wifi\/Bluetooth"
+        },
+        "brand": "JBL",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "jbl-partybox-ultimate.png"
+        ],
+        "stock": 2
+    },
+    {
+        "id": 48,
+        "name": "Marshall Woburn III",
+        "price": 14990000,
+        "category": "Âm thanh",
+        "image": "marshall-woburn-iii.png",
+        "specs": {
+            "Công suất": "150W",
+            "Nguồn": "Điện trực tiếp",
+            "Kết nối": "HDMI ARC"
+        },
+        "brand": "Marshall",
+        "colors": [
+            "Đen",
+            "Kem"
+        ],
+        "images": [
+            "marshall-woburn-iii.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 49,
+        "name": "Bose QuietComfort Ultra",
+        "price": 9890000,
+        "category": "Âm thanh",
+        "image": "bose-qc-ultra-headphone.png",
+        "specs": {
+            "Loại": "Chụp tai Wireless",
+            "Pin": "24h",
+            "Công nghệ": "Immersive Audio"
+        },
+        "brand": "Bose",
+        "colors": [
+            "Đen",
+            "Trắng khói"
+        ],
+        "images": [
+            "bose-qc-ultra-headphone.png"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 50,
+        "name": "Sennheiser Momentum TW 4",
+        "price": 7990000,
+        "category": "Âm thanh",
+        "image": "sennheiser-mtw4.png",
+        "specs": {
+            "Loại": "In-ear",
+            "Pin": "30h",
+            "Codec": "aptX Lossless"
+        },
+        "brand": "Sennheiser",
+        "colors": [
+            "Đen",
+            "Đồng",
+            "Bạc"
+        ],
+        "images": [
+            "sennheiser-mtw4.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 51,
+        "name": "Anker Soundcore Motion X600",
+        "price": 4690000,
+        "category": "Âm thanh",
+        "image": "anker-motion-x600.png",
+        "specs": {
+            "Công suất": "50W",
+            "Pin": "12h",
+            "Âm thanh": "Hi-Res Spatial"
+        },
+        "brand": "Anker",
+        "colors": [
+            "Xanh",
+            "Xám"
+        ],
+        "images": [
+            "anker-motion-x600.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 52,
+        "name": "Sony ULT FIELD 7",
+        "price": 9990000,
+        "category": "Âm thanh",
+        "image": "sony-ult-field-7.png",
+        "specs": {
+            "Loại": "Loa di động",
+            "Pin": "30h",
+            "Chống nước": "IP67"
+        },
+        "brand": "Sony",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "sony-ult-field-7.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 53,
+        "name": "JBL Authentics 500",
+        "price": 16900000,
+        "category": "Âm thanh",
+        "image": "jbl-authentics-500.png",
+        "specs": {
+            "Công suất": "270W",
+            "Thiết kế": "Retro",
+            "Trợ lý ảo": "Tích hợp"
+        },
+        "brand": "JBL",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "jbl-authentics-500.png"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 54,
+        "name": "Marshall Minor III",
+        "price": 2990000,
+        "category": "Âm thanh",
+        "image": "marshall-minor-iii.png",
+        "specs": {
+            "Loại": "Earbuds",
+            "Pin": "25h",
+            "Kết nối": "Bluetooth 5.2"
+        },
+        "brand": "Marshall",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "marshall-minor-iii.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 55,
+        "name": "Bose SoundLink Flex",
+        "price": 3890000,
+        "category": "Âm thanh",
+        "image": "bose-soundlink-flex.png",
+        "specs": {
+            "Loại": "Loa bluetooth",
+            "Pin": "12h",
+            "Chống nước": "IP67"
+        },
+        "brand": "Bose",
+        "colors": [
+            "Xanh",
+            "Đỏ",
+            "Đen"
+        ],
+        "images": [
+            "bose-soundlink-flex.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 56,
+        "name": "Apple Watch Ultra 2",
+        "price": 21590000,
+        "category": "Phụ kiện",
+        "image": "apple-watch-ultra-2.png",
+        "specs": {
+            "Vỏ": "Titanium",
+            "Màn hình": "3000 nits",
+            "Pin": "36-72h"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Titan Tự nhiên"
+        ],
+        "images": [
+            "apple-watch-ultra-2.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 57,
+        "name": "Samsung Galaxy Watch7",
+        "price": 7990000,
+        "category": "Phụ kiện",
+        "image": "samsung-galaxy-watch7.png",
+        "specs": {
+            "Kích thước": "44mm",
+            "Cảm biến": "BioActive 2",
+            "Pin": "40h"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Xanh Quân đội",
+            "Bạc"
+        ],
+        "images": [
+            "samsung-galaxy-watch7.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 58,
+        "name": "Garmin Epix Pro",
+        "price": 25990000,
+        "category": "Phụ kiện",
+        "image": "garmin-epix-pro.png",
+        "specs": {
+            "Màn hình": "AMOLED",
+            "Kích thước": "47mm",
+            "Tính năng": "Đèn pin LED"
+        },
+        "brand": "Garmin",
+        "colors": [
+            "Đen Carbon"
+        ],
+        "images": [
+            "garmin-epix-pro.png"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 59,
+        "name": "Amazfit Balance",
+        "price": 5990000,
+        "category": "Phụ kiện",
+        "image": "amazfit-balance.png",
+        "specs": {
+            "Màn hình": "1.5\" AMOLED",
+            "Pin": "14 ngày",
+            "Tính năng": "Đo thành phần cơ thể"
+        },
+        "brand": "Amazfit",
+        "colors": [
+            "Xám",
+            "Đen"
+        ],
+        "images": [
+            "amazfit-balance.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 60,
+        "name": "Huawei Watch GT 4",
+        "price": 4990000,
+        "category": "Phụ kiện",
+        "image": "huawei-watch-gt-4.png",
+        "specs": {
+            "Kiểu dáng": "Bát giác",
+            "Pin": "14 ngày",
+            "Màn hình": "AMOLED"
+        },
+        "brand": "Huawei",
+        "colors": [
+            "Xanh lá",
+            "Đen",
+            "Nâu"
+        ],
+        "images": [
+            "huawei-watch-gt-4.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 61,
+        "name": "Sạc dự phòng Baseus Blade2",
+        "price": 1190000,
+        "category": "Phụ kiện",
+        "image": "baseus-blade-2.png",
+        "specs": {
+            "Dung lượng": "12000 mAh",
+            "Độ mỏng": "7.3mm",
+            "Công suất": "65W"
+        },
+        "brand": "Baseus",
+        "colors": [
+            "Xanh",
+            "Bạc",
+            "Cam"
+        ],
+        "images": [
+            "baseus-blade-2.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 62,
+        "name": "Trạm sạc Ugreen Nexode",
+        "price": 1790000,
+        "category": "Phụ kiện",
+        "image": "ugreen-nexode-100w.png",
+        "specs": {
+            "Công nghệ": "GaN",
+            "Cổng": "3C 1A",
+            "An toàn": "Chống quá nhiệt"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Xám không gian"
+        ],
+        "images": [
+            "ugreen-nexode-100w.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 63,
+        "name": "SSD SanDisk Extreme Pro V2",
+        "price": 4290000,
+        "category": "Phụ kiện",
+        "image": "sandisk-extreme-pro-v2.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Tốc độ": "2000 MB\/s",
+            "Chống nước": "IP55"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Đen Cam"
+        ],
+        "images": [
+            "sandisk-extreme-pro-v2.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 64,
+        "name": "Thẻ nhớ Lexar Silver",
+        "price": 850000,
+        "category": "Phụ kiện",
+        "image": "lexar-silver-256.png",
+        "specs": {
+            "Tốc độ đọc": "160 MB\/s",
+            "Tốc độ ghi": "120 MB\/s",
+            "Chuẩn": "V30 4K"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "lexar-silver-256.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 65,
+        "name": "WD My Passport Ultra",
+        "price": 3890000,
+        "category": "Phụ kiện",
+        "image": "wd-my-passport-ultra.png",
+        "specs": {
+            "Dung lượng": "4TB",
+            "Kết nối": "USB-C",
+            "Vỏ": "Kim loại"
+        },
+        "brand": "WD",
+        "colors": [
+            "Bạc",
+            "Xanh Dương"
+        ],
+        "images": [
+            "wd-my-passport-ultra.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 66,
+        "name": "Xiaomi Smart Band 8 Pro",
+        "price": 1490000,
+        "category": "Phụ kiện",
+        "image": "xiaomi-band-8-pro.png",
+        "specs": {
+            "Màn hình": "1.74\" 60Hz",
+            "Pin": "14 ngày",
+            "GPS": "Tích hợp độc lập"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Đen",
+            "Xám"
+        ],
+        "images": [
+            "xiaomi-band-8-pro.png"
+        ],
+        "stock": 80
+    },
+    {
+        "id": 67,
+        "name": "Amazfit GTR 4",
+        "price": 4290000,
+        "category": "Phụ kiện",
+        "image": "amazfit-gtr-4.png",
+        "specs": {
+            "Màn hình": "1.43\" AMOLED",
+            "Pin": "14 ngày",
+            "GPS": "Băng tần kép"
+        },
+        "brand": "Amazfit",
+        "colors": [
+            "Nâu",
+            "Đen"
+        ],
+        "images": [
+            "amazfit-gtr-4.png",
+            "amazfit-gtr-4-side.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 68,
+        "name": "Amazfit GTS 4",
+        "price": 4290000,
+        "category": "Phụ kiện",
+        "image": "amazfit-gts-4.png",
+        "specs": {
+            "Màn hình": "1.75\" AMOLED",
+            "Pin": "8 ngày",
+            "Thiết kế": "Mỏng nhẹ"
+        },
+        "brand": "Amazfit",
+        "colors": [
+            "Hồng",
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "amazfit-gts-4.png",
+            "amazfit-gts-4-strap.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 69,
+        "name": "Amazfit T-Rex 2",
+        "price": 3990000,
+        "category": "Phụ kiện",
+        "image": "amazfit-t-rex-2.png",
+        "specs": {
+            "Chuẩn": "Quân đội",
+            "Pin": "24 ngày",
+            "Chống nước": "10ATM"
+        },
+        "brand": "Amazfit",
+        "colors": [
+            "Xanh rêu",
+            "Đen"
+        ],
+        "images": [
+            "amazfit-t-rex-2.png",
+            "amazfit-t-rex-2-mud.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 70,
+        "name": "Amazfit Bip 3 Pro",
+        "price": 1290000,
+        "category": "Phụ kiện",
+        "image": "amazfit-bip-3-pro.png",
+        "specs": {
+            "Màn hình": "1.69\" LCD",
+            "Pin": "14 ngày",
+            "GPS": "Tích hợp"
+        },
+        "brand": "Amazfit",
+        "colors": [
+            "Hồng",
+            "Đen",
+            "Kem"
+        ],
+        "images": [
+            "amazfit-bip-3-pro.png",
+            "amazfit-bip-3-pro-face.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 71,
+        "name": "Amazfit Cheetah",
+        "price": 4990000,
+        "category": "Phụ kiện",
+        "image": "amazfit-cheetah.png",
+        "specs": {
+            "Chuyên dụng": "Chạy bộ",
+            "GPS": "MaxTrack",
+            "Pin": "14 ngày"
+        },
+        "brand": "Amazfit",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "amazfit-cheetah.png",
+            "amazfit-cheetah-run.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 72,
+        "name": "Apple Watch Series 9",
+        "price": 9890000,
+        "category": "Phụ kiện",
+        "image": "apple-watch-s9.png",
+        "specs": {
+            "Viền": "Nhôm",
+            "Chip": "S9 SiP",
+            "Tính năng": "Chạm hai lần"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Đỏ",
+            "Xanh đen",
+            "Hồng"
+        ],
+        "images": [
+            "apple-watch-s9.png",
+            "apple-watch-s9-side.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 73,
+        "name": "Apple Watch Ultra 2",
+        "price": 21990000,
+        "category": "Phụ kiện",
+        "image": "apple-watch-ultra-2.png",
+        "specs": {
+            "Vỏ": "Titan",
+            "Màn hình": "3000 nits",
+            "Pin": "36h"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Titan tự nhiên"
+        ],
+        "images": [
+            "apple-watch-ultra-2.png",
+            "apple-watch-ultra-2-ocean.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 74,
+        "name": "Apple AirTag",
+        "price": 790000,
+        "category": "Phụ kiện",
+        "image": "apple-airtag.png",
+        "specs": {
+            "Kết nối": "Bluetooth\/UWB",
+            "Pin": "Thay thế được",
+            "Chống nước": "IP67"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "apple-airtag.png",
+            "apple-airtag-bag.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 75,
+        "name": "Apple Pencil 2",
+        "price": 3190000,
+        "category": "Phụ kiện",
+        "image": "apple-pencil-2.png",
+        "specs": {
+            "Sạc": "Không dây nam châm",
+            "Cảm ứng": "Áp lực\/Nghiêng"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "apple-pencil-2.png",
+            "apple-pencil-2-tip.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 76,
+        "name": "Sạc MagSafe Apple",
+        "price": 1190000,
+        "category": "Phụ kiện",
+        "image": "apple-magsafe.png",
+        "specs": {
+            "Công suất": "15W",
+            "Cổng": "USB-C",
+            "Chuẩn": "Qi"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "apple-magsafe.png",
+            "apple-magsafe-iphone.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 77,
+        "name": "Sạc dự phòng Baseus 20K",
+        "price": 450000,
+        "category": "Phụ kiện",
+        "image": "baseus-20k.png",
+        "specs": {
+            "Dung lượng": "20000 mAh",
+            "Công suất": "22.5W",
+            "Màn hình": "LED"
+        },
+        "brand": "Baseus",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "baseus-20k.png",
+            "baseus-20k-port.png"
+        ],
+        "stock": 80
+    },
+    {
+        "id": 78,
+        "name": "Củ sạc Baseus GaN 65W",
+        "price": 550000,
+        "category": "Phụ kiện",
+        "image": "baseus-gan-65w.png",
+        "specs": {
+            "Công nghệ": "GaN5 Pro",
+            "Cổng": "2C+1A",
+            "Kích thước": "Nhỏ gọn"
+        },
+        "brand": "Baseus",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "baseus-gan-65w.png",
+            "baseus-gan-65w-plug.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 79,
+        "name": "Tai nghe Baseus Bowie E16",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "baseus-bowie-e16.png",
+        "specs": {
+            "Loại": "True Wireless",
+            "Pin": "30h",
+            "Kháng nước": "IPX4"
+        },
+        "brand": "Baseus",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "baseus-bowie-e16.png",
+            "baseus-bowie-e16-case.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 80,
+        "name": "Hub Baseus 8-in-1",
+        "price": 890000,
+        "category": "Phụ kiện",
+        "image": "baseus-hub-8in1.png",
+        "specs": {
+            "Cổng": "HDMI 4K, LAN, PD 100W",
+            "Vỏ": "Kim loại"
+        },
+        "brand": "Baseus",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "baseus-hub-8in1.png",
+            "baseus-hub-8in1-connect.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 81,
+        "name": "Cáp sạc Baseus 3 đầu",
+        "price": 190000,
+        "category": "Phụ kiện",
+        "image": "baseus-cable-3in1.png",
+        "specs": {
+            "Đầu ra": "Micro\/Light\/Type-C",
+            "Dòng": "3.5A",
+            "Dài": "1.2m"
+        },
+        "brand": "Baseus",
+        "colors": [
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "baseus-cable-3in1.png",
+            "baseus-cable-3in1-detail.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 82,
+        "name": "Sạc dự phòng Energizer 10K",
+        "price": 390000,
+        "category": "Phụ kiện",
+        "image": "energizer-10k.png",
+        "specs": {
+            "Dung lượng": "10000 mAh",
+            "Vỏ": "Nhựa vân nhám",
+            "Cổng": "2 USB-A"
+        },
+        "brand": "Energizer",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "energizer-10k.png",
+            "energizer-10k-side.png"
+        ],
+        "stock": 90
+    },
+    {
+        "id": 83,
+        "name": "Sạc Energizer MagSafe 10K",
+        "price": 890000,
+        "category": "Phụ kiện",
+        "image": "energizer-magsafe-10k.png",
+        "specs": {
+            "Dung lượng": "10000 mAh",
+            "Sạc không dây": "15W",
+            "Hít từ tính": "Có"
+        },
+        "brand": "Energizer",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "energizer-magsafe-10k.png",
+            "energizer-magsafe-10k-back.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 84,
+        "name": "Cáp Energizer Lightning",
+        "price": 250000,
+        "category": "Phụ kiện",
+        "image": "energizer-lightning.png",
+        "specs": {
+            "Chuẩn": "MFI Apple",
+            "Vỏ": "Dù siêu bền",
+            "Bảo hành": "Trọn đời"
+        },
+        "brand": "Energizer",
+        "colors": [
+            "Đỏ",
+            "Đen"
+        ],
+        "images": [
+            "energizer-lightning.png",
+            "energizer-lightning-box.png"
+        ],
+        "stock": 70
+    },
+    {
+        "id": 85,
+        "name": "Củ sạc Energizer 2 cổng",
+        "price": 200000,
+        "category": "Phụ kiện",
+        "image": "energizer-wall-2port.png",
+        "specs": {
+            "Output": "2.4A Max",
+            "Chân cắm": "Gập",
+            "An toàn": "Chống cháy nổ"
+        },
+        "brand": "Energizer",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "energizer-wall-2port.png",
+            "energizer-wall-2port-pin.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 86,
+        "name": "Pin Energizer AA\/AAA",
+        "price": 50000,
+        "category": "Phụ kiện",
+        "image": "energizer-battery.png",
+        "specs": {
+            "Loại": "Alkaline",
+            "Số lượng": "Vỉ 2 viên",
+            "Tuổi thọ": "10 năm"
+        },
+        "brand": "Energizer",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "energizer-battery.png",
+            "energizer-battery-pack.png"
+        ],
+        "stock": 200
+    },
+    {
+        "id": 87,
+        "name": "Garmin Fenix 7 Pro",
+        "price": 23990000,
+        "category": "Phụ kiện",
+        "image": "garmin-fenix-7-pro.png",
+        "specs": {
+            "Kính": "Sapphire Solar",
+            "Vỏ": "Titan",
+            "Đèn pin": "LED"
+        },
+        "brand": "Garmin",
+        "colors": [
+            "Đen Carbon"
+        ],
+        "images": [
+            "garmin-fenix-7-pro.png",
+            "garmin-fenix-7-pro-side.png"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 88,
+        "name": "Garmin Forerunner 265",
+        "price": 11690000,
+        "category": "Phụ kiện",
+        "image": "garmin-forerunner-265.png",
+        "specs": {
+            "Màn hình": "AMOLED",
+            "GPS": "Đa băng tần",
+            "Pin": "13 ngày"
+        },
+        "brand": "Garmin",
+        "colors": [
+            "Trắng",
+            "Đen",
+            "Xanh"
+        ],
+        "images": [
+            "garmin-forerunner-265.png",
+            "garmin-forerunner-265-run.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 89,
+        "name": "Garmin Venu 3",
+        "price": 12290000,
+        "category": "Phụ kiện",
+        "image": "garmin-venu-3.png",
+        "specs": {
+            "Màn hình": "1.4\" AMOLED",
+            "Nghe gọi": "Trên đồng hồ",
+            "Pin": "14 ngày"
+        },
+        "brand": "Garmin",
+        "colors": [
+            "Trắng",
+            "Đen"
+        ],
+        "images": [
+            "garmin-venu-3.png",
+            "garmin-venu-3-wrist.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 90,
+        "name": "Garmin Instinct 2 Solar",
+        "price": 10990000,
+        "category": "Phụ kiện",
+        "image": "garmin-instinct-2.png",
+        "specs": {
+            "Sạc": "Năng lượng mặt trời",
+            "Chuẩn": "Quân đội",
+            "Pin": "Vô cực"
+        },
+        "brand": "Garmin",
+        "colors": [
+            "Xám",
+            "Đỏ"
+        ],
+        "images": [
+            "garmin-instinct-2.png",
+            "garmin-instinct-2-rugged.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 91,
+        "name": "Garmin Lily 2",
+        "price": 6990000,
+        "category": "Phụ kiện",
+        "image": "garmin-lily-2.png",
+        "specs": {
+            "Thiết kế": "Thời trang nữ",
+            "Kích thước": "35mm",
+            "Vỏ": "Kim loại"
+        },
+        "brand": "Garmin",
+        "colors": [
+            "Vàng kem",
+            "Tím"
+        ],
+        "images": [
+            "garmin-lily-2.png",
+            "garmin-lily-2-pattern.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 92,
+        "name": "Huawei Watch GT 4",
+        "price": 4990000,
+        "category": "Phụ kiện",
+        "image": "huawei-gt4.png",
+        "specs": {
+            "Kiểu": "Mặt bát giác",
+            "Pin": "14 ngày",
+            "Theo dõi": "Calo"
+        },
+        "brand": "Huawei",
+        "colors": [
+            "Xanh lá",
+            "Nâu",
+            "Đen"
+        ],
+        "images": [
+            "huawei-gt4.png",
+            "huawei-gt4-face.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 93,
+        "name": "Huawei Band 9",
+        "price": 890000,
+        "category": "Phụ kiện",
+        "image": "huawei-band-9.png",
+        "specs": {
+            "Màn hình": "AMOLED",
+            "Mỏng": "8.99mm",
+            "Giấc ngủ": "TruSleep 4.0"
+        },
+        "brand": "Huawei",
+        "colors": [
+            "Hồng",
+            "Vàng",
+            "Đen"
+        ],
+        "images": [
+            "huawei-band-9.png",
+            "huawei-band-9-strap.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 94,
+        "name": "Huawei FreeBuds Pro 3",
+        "price": 4490000,
+        "category": "Phụ kiện",
+        "image": "huawei-freebuds-pro-3.png",
+        "specs": {
+            "Chống ồn": "ANC 3.0",
+            "Âm thanh": "Hi-Res L2HC",
+            "Kết nối": "2 thiết bị"
+        },
+        "brand": "Huawei",
+        "colors": [
+            "Xanh",
+            "Bạc"
+        ],
+        "images": [
+            "huawei-freebuds-pro-3.png",
+            "huawei-freebuds-pro-3-case.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 95,
+        "name": "Huawei Watch Fit 3",
+        "price": 2990000,
+        "category": "Phụ kiện",
+        "image": "huawei-watch-fit-3.png",
+        "specs": {
+            "Màn hình": "1.82\" AMOLED",
+            "Pin": "10 ngày",
+            "Núm xoay": "Tiện lợi"
+        },
+        "brand": "Huawei",
+        "colors": [
+            "Trắng",
+            "Đen",
+            "Hồng"
+        ],
+        "images": [
+            "huawei-watch-fit-3.png",
+            "huawei-watch-fit-3-side.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 96,
+        "name": "Cân Huawei Scale 3",
+        "price": 490000,
+        "category": "Phụ kiện",
+        "image": "huawei-scale-3.png",
+        "specs": {
+            "Kết nối": "Wifi\/Bluetooth",
+            "Chỉ số": "11 chỉ số cơ thể",
+            "Mặt": "Kính"
+        },
+        "brand": "Huawei",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "huawei-scale-3.png",
+            "huawei-scale-3-top.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 97,
+        "name": "USB Kingston Exodia",
+        "price": 120000,
+        "category": "Phụ kiện",
+        "image": "kingston-exodia.png",
+        "specs": {
+            "Dung lượng": "64GB",
+            "Chuẩn": "USB 3.2",
+            "Móc khóa": "Tiện lợi"
+        },
+        "brand": "Kingston",
+        "colors": [
+            "Đen vòng xanh"
+        ],
+        "images": [
+            "kingston-exodia.png",
+            "kingston-exodia-pack.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 98,
+        "name": "SSD Kingston NV2",
+        "price": 1450000,
+        "category": "Phụ kiện",
+        "image": "kingston-nv2.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Chuẩn": "NVMe Gen 4",
+            "Tốc độ": "3500MB\/s"
+        },
+        "brand": "Kingston",
+        "colors": [
+            "Xanh"
+        ],
+        "images": [
+            "kingston-nv2.png",
+            "kingston-nv2-box.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 99,
+        "name": "RAM Kingston Fury Beast",
+        "price": 990000,
+        "category": "Phụ kiện",
+        "image": "kingston-fury.png",
+        "specs": {
+            "Loại": "DDR4",
+            "Dung lượng": "16GB",
+            "Bus": "3200MHz"
+        },
+        "brand": "Kingston",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "kingston-fury.png",
+            "kingston-fury-rgb.png"
+        ],
+        "stock": 45
+    },
+    {
+        "id": 100,
+        "name": "Thẻ nhớ Kingston Canvas",
+        "price": 250000,
+        "category": "Phụ kiện",
+        "image": "kingston-canvas.png",
+        "specs": {
+            "Dung lượng": "128GB",
+            "Tốc độ": "100MB\/s",
+            "Chuẩn": "Class 10"
+        },
+        "brand": "Kingston",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "kingston-canvas.png",
+            "kingston-canvas-adapter.png"
+        ],
+        "stock": 80
+    },
+    {
+        "id": 101,
+        "name": "Đầu đọc thẻ Kingston",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "kingston-reader.png",
+        "specs": {
+            "Hỗ trợ": "SD\/MicroSD",
+            "Chuẩn": "USB 3.2",
+            "Thiết kế": "Nhỏ gọn"
+        },
+        "brand": "Kingston",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "kingston-reader.png",
+            "kingston-reader-slot.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 102,
+        "name": "Thẻ nhớ Lexar Play",
+        "price": 890000,
+        "category": "Phụ kiện",
+        "image": "lexar-play.png",
+        "specs": {
+            "Dung lượng": "512GB",
+            "Tốc độ": "150MB\/s",
+            "Chuyên dụng": "Gaming"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Đỏ"
+        ],
+        "images": [
+            "lexar-play.png",
+            "lexar-play-package.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 103,
+        "name": "SSD Lexar NM790",
+        "price": 2190000,
+        "category": "Phụ kiện",
+        "image": "lexar-nm790.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Tốc độ": "7400MB\/s",
+            "Chuẩn": "Gen 4"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "lexar-nm790.png",
+            "lexar-nm790-box.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 104,
+        "name": "USB Lexar JumpDrive",
+        "price": 150000,
+        "category": "Phụ kiện",
+        "image": "lexar-jumpdrive.png",
+        "specs": {
+            "Dung lượng": "64GB",
+            "Vỏ": "Kim loại",
+            "Bảo mật": "AES 256"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "lexar-jumpdrive.png",
+            "lexar-jumpdrive-open.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 105,
+        "name": "RAM Lexar Thor",
+        "price": 1050000,
+        "category": "Phụ kiện",
+        "image": "lexar-thor.png",
+        "specs": {
+            "Dung lượng": "16GB Kit",
+            "Loại": "DDR4",
+            "Tản nhiệt": "Nhôm"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Đen\/Trắng"
+        ],
+        "images": [
+            "lexar-thor.png",
+            "lexar-thor-side.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 106,
+        "name": "Thẻ Lexar CFexpress",
+        "price": 4500000,
+        "category": "Phụ kiện",
+        "image": "lexar-cfexpress.png",
+        "specs": {
+            "Dung lượng": "128GB",
+            "Tốc độ": "1750MB\/s",
+            "Quay phim": "8K"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Vàng đen"
+        ],
+        "images": [
+            "lexar-cfexpress.png",
+            "lexar-cfexpress-case.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 107,
+        "name": "Sạc dự phòng Remax 20K",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "remax-20k.png",
+        "specs": {
+            "Dung lượng": "20000 mAh",
+            "Cáp": "Tích hợp sẵn",
+            "Màn hình": "LED"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Xanh",
+            "Trắng"
+        ],
+        "images": [
+            "remax-20k.png",
+            "remax-20k-display.png"
+        ],
+        "stock": 70
+    },
+    {
+        "id": 108,
+        "name": "Loa Remax RB-M55",
+        "price": 890000,
+        "category": "Phụ kiện",
+        "image": "remax-rb-m55.png",
+        "specs": {
+            "Công suất": "14W",
+            "Chống nước": "IPX6",
+            "Pin": "3000mAh"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "remax-rb-m55.png",
+            "remax-rb-m55-side.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 109,
+        "name": "Tai nghe Remax TWS-19",
+        "price": 290000,
+        "category": "Phụ kiện",
+        "image": "remax-tws-19.png",
+        "specs": {
+            "Loại": "Earbuds",
+            "Thiết kế": "Retro",
+            "Pin": "3-4h"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Hồng",
+            "Trắng"
+        ],
+        "images": [
+            "remax-tws-19.png",
+            "remax-tws-19-open.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 110,
+        "name": "Cáp sạc Remax lò xo",
+        "price": 120000,
+        "category": "Phụ kiện",
+        "image": "remax-cable-spring.png",
+        "specs": {
+            "Kiểu": "Xoắn lò xo",
+            "Đầu": "Type-C",
+            "Dài": "1.8m"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "remax-cable-spring.png",
+            "remax-cable-spring-coil.png"
+        ],
+        "stock": 80
+    },
+    {
+        "id": 111,
+        "name": "Đèn bàn Remax",
+        "price": 190000,
+        "category": "Phụ kiện",
+        "image": "remax-lamp.png",
+        "specs": {
+            "Chống cận": "Có",
+            "Pin": "Tích hợp",
+            "Cảm ứng": "3 mức sáng"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "remax-lamp.png",
+            "remax-lamp-lit.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 112,
+        "name": "Samsung Galaxy Watch6",
+        "price": 5990000,
+        "category": "Phụ kiện",
+        "image": "samsung-watch6.png",
+        "specs": {
+            "Kích thước": "44mm",
+            "Viền": "Nhôm",
+            "Theo dõi": "Sức khỏe toàn diện"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Bạc",
+            "Đen"
+        ],
+        "images": [
+            "samsung-watch6.png",
+            "samsung-watch6-side.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 113,
+        "name": "Galaxy Buds2 Pro",
+        "price": 3990000,
+        "category": "Phụ kiện",
+        "image": "samsung-buds2-pro.png",
+        "specs": {
+            "Chống ồn": "ANC",
+            "Âm thanh": "24bit Hi-Fi",
+            "Chống nước": "IPX7"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Tím",
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "samsung-buds2-pro.png",
+            "samsung-buds2-pro-case.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 114,
+        "name": "Samsung SmartTag2",
+        "price": 690000,
+        "category": "Phụ kiện",
+        "image": "samsung-smarttag2.png",
+        "specs": {
+            "Pin": "500 ngày",
+            "Chống nước": "IP67",
+            "Công nghệ": "Compass View"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "samsung-smarttag2.png",
+            "samsung-smarttag2-loop.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 115,
+        "name": "SSD Samsung T7",
+        "price": 2490000,
+        "category": "Phụ kiện",
+        "image": "samsung-t7.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Tốc độ": "1050MB\/s",
+            "Vỏ": "Kim loại"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Đỏ",
+            "Xanh",
+            "Xám"
+        ],
+        "images": [
+            "samsung-t7.png",
+            "samsung-t7-cable.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 116,
+        "name": "Sạc Samsung 45W",
+        "price": 990000,
+        "category": "Phụ kiện",
+        "image": "samsung-45w.png",
+        "specs": {
+            "Công suất": "45W",
+            "Chuẩn": "Super Fast Charge 2.0",
+            "Kèm cáp": "5A"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "samsung-45w.png",
+            "samsung-45w-box.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 117,
+        "name": "SSD SanDisk Extreme",
+        "price": 3290000,
+        "category": "Phụ kiện",
+        "image": "sandisk-extreme.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Tốc độ": "1050MB\/s",
+            "Chống nước": "IP55"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "sandisk-extreme.png",
+            "sandisk-extreme-hook.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 118,
+        "name": "USB SanDisk Dual Drive",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "sandisk-dual.png",
+        "specs": {
+            "Dung lượng": "64GB",
+            "Đầu": "Type-C & Type-A",
+            "Vỏ": "Kim loại"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "sandisk-dual.png",
+            "sandisk-dual-swivel.png"
+        ],
+        "stock": 90
+    },
+    {
+        "id": 119,
+        "name": "Thẻ nhớ SanDisk Ultra",
+        "price": 200000,
+        "category": "Phụ kiện",
+        "image": "sandisk-ultra.png",
+        "specs": {
+            "Dung lượng": "64GB",
+            "Tốc độ": "100MB\/s",
+            "Chuẩn": "Class 10"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Xám đỏ"
+        ],
+        "images": [
+            "sandisk-ultra.png",
+            "sandisk-ultra-adapter.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 120,
+        "name": "USB SanDisk iXpand",
+        "price": 1190000,
+        "category": "Phụ kiện",
+        "image": "sandisk-ixpand.png",
+        "specs": {
+            "Hỗ trợ": "iPhone\/iPad",
+            "Dung lượng": "128GB",
+            "Đầu": "Lightning"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "sandisk-ixpand.png",
+            "sandisk-ixpand-curve.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 121,
+        "name": "Thẻ SanDisk Extreme Pro",
+        "price": 690000,
+        "category": "Phụ kiện",
+        "image": "sandisk-extreme-pro.png",
+        "specs": {
+            "Dung lượng": "128GB",
+            "Tốc độ": "200MB\/s",
+            "Quay phim": "4K UHD"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Đen vàng"
+        ],
+        "images": [
+            "sandisk-extreme-pro.png",
+            "sandisk-extreme-pro-back.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 122,
+        "name": "HDD Seagate Expansion",
+        "price": 1590000,
+        "category": "Phụ kiện",
+        "image": "seagate-expansion.png",
+        "specs": {
+            "Dung lượng": "2TB",
+            "Kích thước": "2.5 inch",
+            "Kết nối": "USB 3.0"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "seagate-expansion.png",
+            "seagate-expansion-top.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 123,
+        "name": "HDD Seagate One Touch",
+        "price": 1690000,
+        "category": "Phụ kiện",
+        "image": "seagate-onetouch.png",
+        "specs": {
+            "Dung lượng": "2TB",
+            "Vỏ": "Nhôm phay xước",
+            "Bảo mật": "Mật khẩu"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Bạc",
+            "Đỏ",
+            "Xanh"
+        ],
+        "images": [
+            "seagate-onetouch.png",
+            "seagate-onetouch-side.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 124,
+        "name": "SSD Seagate FireCuda",
+        "price": 3190000,
+        "category": "Phụ kiện",
+        "image": "seagate-firecuda.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "LED": "RGB",
+            "Chuẩn": "USB 3.2"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "seagate-firecuda.png",
+            "seagate-firecuda-light.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 125,
+        "name": "HDD Seagate IronWolf",
+        "price": 2890000,
+        "category": "Phụ kiện",
+        "image": "seagate-ironwolf.png",
+        "specs": {
+            "Dung lượng": "4TB",
+            "Chuyên dụng": "NAS",
+            "Hoạt động": "24\/7"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "seagate-ironwolf.png",
+            "seagate-ironwolf-label.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 126,
+        "name": "SSD Seagate BarraCuda",
+        "price": 1090000,
+        "category": "Phụ kiện",
+        "image": "seagate-barracuda.png",
+        "specs": {
+            "Dung lượng": "500GB",
+            "Chuẩn": "SATA 2.5",
+            "Tốc độ": "560MB\/s"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "seagate-barracuda.png",
+            "seagate-barracuda-top.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 127,
+        "name": "Củ sạc Ugreen Nexode 65W",
+        "price": 790000,
+        "category": "Phụ kiện",
+        "image": "ugreen-65w.png",
+        "specs": {
+            "Công nghệ": "GaN",
+            "Cổng": "2C+1A",
+            "Kích thước": "Nhỏ gọn"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Xám đen"
+        ],
+        "images": [
+            "ugreen-65w.png",
+            "ugreen-65w-plug.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 128,
+        "name": "Hub Ugreen 7-in-1",
+        "price": 690000,
+        "category": "Phụ kiện",
+        "image": "ugreen-hub-7in1.png",
+        "specs": {
+            "Cổng": "HDMI, USB 3.0, SD\/TF",
+            "Vỏ": "Nhôm"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "ugreen-hub-7in1.png",
+            "ugreen-hub-7in1-ports.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 129,
+        "name": "Cáp mạng Ugreen Cat8",
+        "price": 150000,
+        "category": "Phụ kiện",
+        "image": "ugreen-cat8.png",
+        "specs": {
+            "Tốc độ": "40Gbps",
+            "Dây": "Bện dù",
+            "Dài": "2m"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "ugreen-cat8.png",
+            "ugreen-cat8-head.png"
+        ],
+        "stock": 80
+    },
+    {
+        "id": 130,
+        "name": "Giá đỡ Ugreen Nhôm",
+        "price": 220000,
+        "category": "Phụ kiện",
+        "image": "ugreen-stand.png",
+        "specs": {
+            "Chất liệu": "Hợp kim nhôm",
+            "Gấp gọn": "Có",
+            "Dùng cho": "Điện thoại"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "ugreen-stand.png",
+            "ugreen-stand-folded.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 131,
+        "name": "Box ổ cứng Ugreen",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "ugreen-box-nvme.png",
+        "specs": {
+            "Hỗ trợ": "M.2 NVMe",
+            "Tốc độ": "10Gbps",
+            "Tản nhiệt": "Tốt"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "ugreen-box-nvme.png",
+            "ugreen-box-nvme-open.png"
+        ],
+        "stock": 45
+    },
+    {
+        "id": 132,
+        "name": "HDD WD My Passport",
+        "price": 1790000,
+        "category": "Phụ kiện",
+        "image": "wd-mypassport.png",
+        "specs": {
+            "Dung lượng": "2TB",
+            "Bảo mật": "Mật khẩu",
+            "Sao lưu": "Tự động"
+        },
+        "brand": "WD",
+        "colors": [
+            "Đỏ",
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "wd-mypassport.png",
+            "wd-mypassport-side.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 133,
+        "name": "SSD WD Black SN850X",
+        "price": 2690000,
+        "category": "Phụ kiện",
+        "image": "wd-sn850x.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Tốc độ": "7300MB\/s",
+            "Chuyên dụng": "PS5\/PC"
+        },
+        "brand": "WD",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "wd-sn850x.png",
+            "wd-sn850x-box.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 134,
+        "name": "SSD WD Blue SN580",
+        "price": 1590000,
+        "category": "Phụ kiện",
+        "image": "wd-sn580.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Chuẩn": "Gen 4",
+            "Bền bỉ": "Cao"
+        },
+        "brand": "WD",
+        "colors": [
+            "Xanh"
+        ],
+        "images": [
+            "wd-sn580.png",
+            "wd-sn580-chip.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 135,
+        "name": "HDD WD Elements",
+        "price": 1390000,
+        "category": "Phụ kiện",
+        "image": "wd-elements.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Kết nối": "USB 3.0",
+            "Thiết kế": "Đơn giản"
+        },
+        "brand": "WD",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "wd-elements.png",
+            "wd-elements-top.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 136,
+        "name": "WD My Cloud Home",
+        "price": 4990000,
+        "category": "Phụ kiện",
+        "image": "wd-mycloud.png",
+        "specs": {
+            "Dung lượng": "4TB",
+            "Kết nối": "Mạng Lan",
+            "Truy cập": "Từ xa"
+        },
+        "brand": "WD",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "wd-mycloud.png",
+            "wd-mycloud-back.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 137,
+        "name": "Xiaomi Band 8",
+        "price": 890000,
+        "category": "Phụ kiện",
+        "image": "xiaomi-band-8.png",
+        "specs": {
+            "Màn hình": "1.62\" AMOLED",
+            "Tần số quét": "60Hz",
+            "Pin": "16 ngày"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Vàng",
+            "Đen"
+        ],
+        "images": [
+            "xiaomi-band-8.png",
+            "xiaomi-band-8-strap.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 138,
+        "name": "Cân Xiaomi Scale 2",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "xiaomi-scale-2.png",
+        "specs": {
+            "Kết nối": "Bluetooth 5.0",
+            "Đo": "3 chỉ số",
+            "Mặt": "Kính"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "xiaomi-scale-2.png",
+            "xiaomi-scale-2-top.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 139,
+        "name": "Camera Xiaomi C200",
+        "price": 690000,
+        "category": "Phụ kiện",
+        "image": "xiaomi-c200.png",
+        "specs": {
+            "Độ phân giải": "1080p",
+            "Xoay": "360 độ",
+            "Đàm thoại": "2 chiều"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "xiaomi-c200.png",
+            "xiaomi-c200-side.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 140,
+        "name": "Bơm điện Xiaomi",
+        "price": 990000,
+        "category": "Phụ kiện",
+        "image": "xiaomi-pump-2.png",
+        "specs": {
+            "Áp suất": "150 PSI",
+            "Pin": "2000 mAh",
+            "Tự ngắt": "Có"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "xiaomi-pump-2.png",
+            "xiaomi-pump-2-nozzle.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 141,
+        "name": "Thẻ nhớ Lexar Play",
+        "price": 890000,
+        "category": "Phụ kiện",
+        "image": "lexar-play.png",
+        "specs": {
+            "Dung lượng": "512GB",
+            "Tốc độ": "150MB\/s",
+            "Chuyên dụng": "Gaming"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Đỏ"
+        ],
+        "images": [
+            "lexar-play.png",
+            "lexar-play-package.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 142,
+        "name": "SSD Lexar NM790",
+        "price": 2190000,
+        "category": "Phụ kiện",
+        "image": "lexar-nm790.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Tốc độ": "7400MB\/s",
+            "Chuẩn": "Gen 4"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "lexar-nm790.png",
+            "lexar-nm790-box.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 143,
+        "name": "USB Lexar JumpDrive",
+        "price": 150000,
+        "category": "Phụ kiện",
+        "image": "lexar-jumpdrive.png",
+        "specs": {
+            "Dung lượng": "64GB",
+            "Vỏ": "Kim loại",
+            "Bảo mật": "AES 256"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "lexar-jumpdrive.png",
+            "lexar-jumpdrive-open.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 144,
+        "name": "RAM Lexar Thor",
+        "price": 1050000,
+        "category": "Phụ kiện",
+        "image": "lexar-thor.png",
+        "specs": {
+            "Dung lượng": "16GB Kit",
+            "Loại": "DDR4",
+            "Tản nhiệt": "Nhôm"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Đen\/Trắng"
+        ],
+        "images": [
+            "lexar-thor.png",
+            "lexar-thor-side.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 145,
+        "name": "Thẻ Lexar CFexpress",
+        "price": 4500000,
+        "category": "Phụ kiện",
+        "image": "lexar-cfexpress.png",
+        "specs": {
+            "Dung lượng": "128GB",
+            "Tốc độ": "1750MB\/s",
+            "Quay phim": "8K"
+        },
+        "brand": "Lexar",
+        "colors": [
+            "Vàng đen"
+        ],
+        "images": [
+            "lexar-cfexpress.png",
+            "lexar-cfexpress-case.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 146,
+        "name": "Sạc dự phòng Remax 20K",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "remax-20k.png",
+        "specs": {
+            "Dung lượng": "20000 mAh",
+            "Cáp": "Tích hợp sẵn",
+            "Màn hình": "LED"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Xanh",
+            "Trắng"
+        ],
+        "images": [
+            "remax-20k.png",
+            "remax-20k-display.png"
+        ],
+        "stock": 70
+    },
+    {
+        "id": 147,
+        "name": "Loa Remax RB-M55",
+        "price": 890000,
+        "category": "Phụ kiện",
+        "image": "remax-rb-m55.png",
+        "specs": {
+            "Công suất": "14W",
+            "Chống nước": "IPX6",
+            "Pin": "3000mAh"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "remax-rb-m55.png",
+            "remax-rb-m55-side.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 148,
+        "name": "Tai nghe Remax TWS-19",
+        "price": 290000,
+        "category": "Phụ kiện",
+        "image": "remax-tws-19.png",
+        "specs": {
+            "Loại": "Earbuds",
+            "Thiết kế": "Retro",
+            "Pin": "3-4h"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Hồng",
+            "Trắng"
+        ],
+        "images": [
+            "remax-tws-19.png",
+            "remax-tws-19-open.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 149,
+        "name": "Cáp sạc Remax lò xo",
+        "price": 120000,
+        "category": "Phụ kiện",
+        "image": "remax-cable-spring.png",
+        "specs": {
+            "Kiểu": "Xoắn lò xo",
+            "Đầu": "Type-C",
+            "Dài": "1.8m"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "remax-cable-spring.png",
+            "remax-cable-spring-coil.png"
+        ],
+        "stock": 80
+    },
+    {
+        "id": 150,
+        "name": "Đèn bàn Remax",
+        "price": 190000,
+        "category": "Phụ kiện",
+        "image": "remax-lamp.png",
+        "specs": {
+            "Chống cận": "Có",
+            "Pin": "Tích hợp",
+            "Cảm ứng": "3 mức sáng"
+        },
+        "brand": "Remax",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "remax-lamp.png",
+            "remax-lamp-lit.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 151,
+        "name": "Samsung Galaxy Watch6",
+        "price": 5990000,
+        "category": "Phụ kiện",
+        "image": "samsung-watch6.png",
+        "specs": {
+            "Kích thước": "44mm",
+            "Viền": "Nhôm",
+            "Theo dõi": "Sức khỏe toàn diện"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Bạc",
+            "Đen"
+        ],
+        "images": [
+            "samsung-watch6.png",
+            "samsung-watch6-side.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 152,
+        "name": "Galaxy Buds2 Pro",
+        "price": 3990000,
+        "category": "Phụ kiện",
+        "image": "samsung-buds2-pro.png",
+        "specs": {
+            "Chống ồn": "ANC",
+            "Âm thanh": "24bit Hi-Fi",
+            "Chống nước": "IPX7"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Tím",
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "samsung-buds2-pro.png",
+            "samsung-buds2-pro-case.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 153,
+        "name": "Samsung SmartTag2",
+        "price": 690000,
+        "category": "Phụ kiện",
+        "image": "samsung-smarttag2.png",
+        "specs": {
+            "Pin": "500 ngày",
+            "Chống nước": "IP67",
+            "Công nghệ": "Compass View"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "samsung-smarttag2.png",
+            "samsung-smarttag2-loop.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 154,
+        "name": "SSD Samsung T7",
+        "price": 2490000,
+        "category": "Phụ kiện",
+        "image": "samsung-t7.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Tốc độ": "1050MB\/s",
+            "Vỏ": "Kim loại"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Đỏ",
+            "Xanh",
+            "Xám"
+        ],
+        "images": [
+            "samsung-t7.png",
+            "samsung-t7-cable.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 155,
+        "name": "Sạc Samsung 45W",
+        "price": 990000,
+        "category": "Phụ kiện",
+        "image": "samsung-45w.png",
+        "specs": {
+            "Công suất": "45W",
+            "Chuẩn": "Super Fast Charge 2.0",
+            "Kèm cáp": "5A"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "samsung-45w.png",
+            "samsung-45w-box.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 156,
+        "name": "SSD SanDisk Extreme",
+        "price": 3290000,
+        "category": "Phụ kiện",
+        "image": "sandisk-extreme.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Tốc độ": "1050MB\/s",
+            "Chống nước": "IP55"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "sandisk-extreme.png",
+            "sandisk-extreme-hook.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 157,
+        "name": "USB SanDisk Dual Drive",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "sandisk-dual.png",
+        "specs": {
+            "Dung lượng": "64GB",
+            "Đầu": "Type-C & Type-A",
+            "Vỏ": "Kim loại"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "sandisk-dual.png",
+            "sandisk-dual-swivel.png"
+        ],
+        "stock": 90
+    },
+    {
+        "id": 158,
+        "name": "Thẻ nhớ SanDisk Ultra",
+        "price": 200000,
+        "category": "Phụ kiện",
+        "image": "sandisk-ultra.png",
+        "specs": {
+            "Dung lượng": "64GB",
+            "Tốc độ": "100MB\/s",
+            "Chuẩn": "Class 10"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Xám đỏ"
+        ],
+        "images": [
+            "sandisk-ultra.png",
+            "sandisk-ultra-adapter.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 159,
+        "name": "USB SanDisk iXpand",
+        "price": 1190000,
+        "category": "Phụ kiện",
+        "image": "sandisk-ixpand.png",
+        "specs": {
+            "Hỗ trợ": "iPhone\/iPad",
+            "Dung lượng": "128GB",
+            "Đầu": "Lightning"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "sandisk-ixpand.png",
+            "sandisk-ixpand-curve.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 160,
+        "name": "Thẻ SanDisk Extreme Pro",
+        "price": 690000,
+        "category": "Phụ kiện",
+        "image": "sandisk-extreme-pro.png",
+        "specs": {
+            "Dung lượng": "128GB",
+            "Tốc độ": "200MB\/s",
+            "Quay phim": "4K UHD"
+        },
+        "brand": "SanDisk",
+        "colors": [
+            "Đen vàng"
+        ],
+        "images": [
+            "sandisk-extreme-pro.png",
+            "sandisk-extreme-pro-back.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 161,
+        "name": "HDD Seagate Expansion",
+        "price": 1590000,
+        "category": "Phụ kiện",
+        "image": "seagate-expansion.png",
+        "specs": {
+            "Dung lượng": "2TB",
+            "Kích thước": "2.5 inch",
+            "Kết nối": "USB 3.0"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "seagate-expansion.png",
+            "seagate-expansion-top.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 162,
+        "name": "HDD Seagate One Touch",
+        "price": 1690000,
+        "category": "Phụ kiện",
+        "image": "seagate-onetouch.png",
+        "specs": {
+            "Dung lượng": "2TB",
+            "Vỏ": "Nhôm phay xước",
+            "Bảo mật": "Mật khẩu"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Bạc",
+            "Đỏ",
+            "Xanh"
+        ],
+        "images": [
+            "seagate-onetouch.png",
+            "seagate-onetouch-side.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 163,
+        "name": "SSD Seagate FireCuda",
+        "price": 3190000,
+        "category": "Phụ kiện",
+        "image": "seagate-firecuda.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "LED": "RGB",
+            "Chuẩn": "USB 3.2"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "seagate-firecuda.png",
+            "seagate-firecuda-light.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 164,
+        "name": "HDD Seagate IronWolf",
+        "price": 2890000,
+        "category": "Phụ kiện",
+        "image": "seagate-ironwolf.png",
+        "specs": {
+            "Dung lượng": "4TB",
+            "Chuyên dụng": "NAS",
+            "Hoạt động": "24\/7"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "seagate-ironwolf.png",
+            "seagate-ironwolf-label.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 165,
+        "name": "SSD Seagate BarraCuda",
+        "price": 1090000,
+        "category": "Phụ kiện",
+        "image": "seagate-barracuda.png",
+        "specs": {
+            "Dung lượng": "500GB",
+            "Chuẩn": "SATA 2.5",
+            "Tốc độ": "560MB\/s"
+        },
+        "brand": "Seagate",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "seagate-barracuda.png",
+            "seagate-barracuda-top.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 166,
+        "name": "Củ sạc Ugreen Nexode 65W",
+        "price": 790000,
+        "category": "Phụ kiện",
+        "image": "ugreen-65w.png",
+        "specs": {
+            "Công nghệ": "GaN",
+            "Cổng": "2C+1A",
+            "Kích thước": "Nhỏ gọn"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Xám đen"
+        ],
+        "images": [
+            "ugreen-65w.png",
+            "ugreen-65w-plug.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 167,
+        "name": "Hub Ugreen 7-in-1",
+        "price": 690000,
+        "category": "Phụ kiện",
+        "image": "ugreen-hub-7in1.png",
+        "specs": {
+            "Cổng": "HDMI, USB 3.0, SD\/TF",
+            "Vỏ": "Nhôm"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "ugreen-hub-7in1.png",
+            "ugreen-hub-7in1-ports.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 168,
+        "name": "Cáp mạng Ugreen Cat8",
+        "price": 150000,
+        "category": "Phụ kiện",
+        "image": "ugreen-cat8.png",
+        "specs": {
+            "Tốc độ": "40Gbps",
+            "Dây": "Bện dù",
+            "Dài": "2m"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "ugreen-cat8.png",
+            "ugreen-cat8-head.png"
+        ],
+        "stock": 80
+    },
+    {
+        "id": 169,
+        "name": "Giá đỡ Ugreen Nhôm",
+        "price": 220000,
+        "category": "Phụ kiện",
+        "image": "ugreen-stand.png",
+        "specs": {
+            "Chất liệu": "Hợp kim nhôm",
+            "Gấp gọn": "Có",
+            "Dùng cho": "Điện thoại"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "ugreen-stand.png",
+            "ugreen-stand-folded.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 170,
+        "name": "Box ổ cứng Ugreen",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "ugreen-box-nvme.png",
+        "specs": {
+            "Hỗ trợ": "M.2 NVMe",
+            "Tốc độ": "10Gbps",
+            "Tản nhiệt": "Tốt"
+        },
+        "brand": "Ugreen",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "ugreen-box-nvme.png",
+            "ugreen-box-nvme-open.png"
+        ],
+        "stock": 45
+    },
+    {
+        "id": 171,
+        "name": "HDD WD My Passport",
+        "price": 1790000,
+        "category": "Phụ kiện",
+        "image": "wd-mypassport.png",
+        "specs": {
+            "Dung lượng": "2TB",
+            "Bảo mật": "Mật khẩu",
+            "Sao lưu": "Tự động"
+        },
+        "brand": "WD",
+        "colors": [
+            "Đỏ",
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "wd-mypassport.png",
+            "wd-mypassport-side.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 172,
+        "name": "SSD WD Black SN850X",
+        "price": 2690000,
+        "category": "Phụ kiện",
+        "image": "wd-sn850x.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Tốc độ": "7300MB\/s",
+            "Chuyên dụng": "PS5\/PC"
+        },
+        "brand": "WD",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "wd-sn850x.png",
+            "wd-sn850x-box.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 173,
+        "name": "SSD WD Blue SN580",
+        "price": 1590000,
+        "category": "Phụ kiện",
+        "image": "wd-sn580.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Chuẩn": "Gen 4",
+            "Bền bỉ": "Cao"
+        },
+        "brand": "WD",
+        "colors": [
+            "Xanh"
+        ],
+        "images": [
+            "wd-sn580.png",
+            "wd-sn580-chip.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 174,
+        "name": "HDD WD Elements",
+        "price": 1390000,
+        "category": "Phụ kiện",
+        "image": "wd-elements.png",
+        "specs": {
+            "Dung lượng": "1TB",
+            "Kết nối": "USB 3.0",
+            "Thiết kế": "Đơn giản"
+        },
+        "brand": "WD",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "wd-elements.png",
+            "wd-elements-top.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 175,
+        "name": "WD My Cloud Home",
+        "price": 4990000,
+        "category": "Phụ kiện",
+        "image": "wd-mycloud.png",
+        "specs": {
+            "Dung lượng": "4TB",
+            "Kết nối": "Mạng Lan",
+            "Truy cập": "Từ xa"
+        },
+        "brand": "WD",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "wd-mycloud.png",
+            "wd-mycloud-back.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 176,
+        "name": "Xiaomi Band 8",
+        "price": 890000,
+        "category": "Phụ kiện",
+        "image": "xiaomi-band-8.png",
+        "specs": {
+            "Màn hình": "1.62\" AMOLED",
+            "Tần số quét": "60Hz",
+            "Pin": "16 ngày"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Vàng",
+            "Đen"
+        ],
+        "images": [
+            "xiaomi-band-8.png",
+            "xiaomi-band-8-strap.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 177,
+        "name": "Cân Xiaomi Scale 2",
+        "price": 350000,
+        "category": "Phụ kiện",
+        "image": "xiaomi-scale-2.png",
+        "specs": {
+            "Kết nối": "Bluetooth 5.0",
+            "Đo": "3 chỉ số",
+            "Mặt": "Kính"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "xiaomi-scale-2.png",
+            "xiaomi-scale-2-top.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 178,
+        "name": "Camera Xiaomi C200",
+        "price": 690000,
+        "category": "Phụ kiện",
+        "image": "xiaomi-c200.png",
+        "specs": {
+            "Độ phân giải": "1080p",
+            "Xoay": "360 độ",
+            "Đàm thoại": "2 chiều"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Trắng"
+        ],
+        "images": [
+            "xiaomi-c200.png",
+            "xiaomi-c200-side.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 179,
+        "name": "Bơm điện Xiaomi",
+        "price": 990000,
+        "category": "Phụ kiện",
+        "image": "xiaomi-pump-2.png",
+        "specs": {
+            "Áp suất": "150 PSI",
+            "Pin": "2000 mAh",
+            "Tự ngắt": "Có"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "xiaomi-pump-2.png",
+            "xiaomi-pump-2-nozzle.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 180,
+        "name": "Redmi Buds 4 Active",
+        "price": 450000,
+        "category": "Phụ kiện",
+        "image": "redmi-buds-4-active.png",
+        "specs": {
+            "Driver": "12mm",
+            "Pin": "28h",
+            "Sạc nhanh": "Có"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "redmi-buds-4-active.png",
+            "redmi-buds-4-active-case.png"
+        ],
+        "stock": 70
+    },
+    {
+        "id": 181,
+        "name": "Samsung Galaxy A55 5G",
+        "price": 9990000,
+        "category": "Điện thoại",
+        "image": "samsung-a55.png",
+        "specs": {
+            "Màn hình": "6.6\" AMOLED 120Hz",
+            "CPU": "Exynos 1480",
+            "RAM": "8GB",
+            "Bộ nhớ": "128GB"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Xanh Iceblue",
+            "Tím",
+            "Đen"
+        ],
+        "images": [
+            "samsung-a55.png",
+            "samsung-a55-back.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 182,
+        "name": "Samsung Galaxy A35 5G",
+        "price": 8290000,
+        "category": "Điện thoại",
+        "image": "samsung-a35.png",
+        "specs": {
+            "Màn hình": "6.6\" AMOLED 120Hz",
+            "CPU": "Exynos 1380",
+            "RAM": "8GB",
+            "Bộ nhớ": "128GB"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Vàng",
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "samsung-a35.png",
+            "samsung-a35-side.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 183,
+        "name": "Samsung Galaxy M54 5G",
+        "price": 7990000,
+        "category": "Điện thoại",
+        "image": "samsung-m54.png",
+        "specs": {
+            "Màn hình": "6.7\" Plus",
+            "Pin": "6000 mAh",
+            "Camera": "108MP"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Xanh",
+            "Bạc"
+        ],
+        "images": [
+            "samsung-m54.png",
+            "samsung-m54-box.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 184,
+        "name": "Samsung Galaxy M34 5G",
+        "price": 6490000,
+        "category": "Điện thoại",
+        "image": "samsung-m34.png",
+        "specs": {
+            "Màn hình": "120Hz",
+            "Pin": "6000 mAh",
+            "Chống rung": "OIS"
+        },
+        "brand": "Samsung",
+        "colors": [
+            "Xanh đen",
+            "Xanh dương"
+        ],
+        "images": [
+            "samsung-m34.png",
+            "samsung-m34-back.png"
+        ],
+        "stock": 45
+    },
+    {
+        "id": 185,
+        "name": "Xiaomi Redmi Note 13 Pro",
+        "price": 7290000,
+        "category": "Điện thoại",
+        "image": "redmi-note-13-pro.png",
+        "specs": {
+            "Màn hình": "AMOLED 120Hz",
+            "Camera": "200MP",
+            "Sạc": "67W"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Xanh",
+            "Đen",
+            "Tím"
+        ],
+        "images": [
+            "redmi-note-13-pro.png",
+            "redmi-note-13-pro-cam.png"
+        ],
+        "stock": 70
+    },
+    {
+        "id": 186,
+        "name": "Xiaomi Poco X6 Pro",
+        "price": 8490000,
+        "category": "Điện thoại",
+        "image": "poco-x6-pro.png",
+        "specs": {
+            "CPU": "Dimensity 8300 Ultra",
+            "Màn hình": "1.5K 120Hz",
+            "Sạc": "67W"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Vàng",
+            "Đen",
+            "Xám"
+        ],
+        "images": [
+            "poco-x6-pro.png",
+            "poco-x6-pro-yellow.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 187,
+        "name": "Xiaomi Poco M6 Pro",
+        "price": 5490000,
+        "category": "Điện thoại",
+        "image": "poco-m6-pro.png",
+        "specs": {
+            "Màn hình": "Flow AMOLED",
+            "CPU": "Helio G99 Ultra",
+            "Pin": "5000 mAh"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Xanh",
+            "Đen",
+            "Tím"
+        ],
+        "images": [
+            "poco-m6-pro.png",
+            "poco-m6-pro-back.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 188,
+        "name": "Xiaomi Redmi 13C",
+        "price": 3290000,
+        "category": "Điện thoại",
+        "image": "redmi-13c.png",
+        "specs": {
+            "Màn hình": "6.74\" 90Hz",
+            "Pin": "5000 mAh",
+            "RAM": "6GB"
+        },
+        "brand": "Xiaomi",
+        "colors": [
+            "Xanh lá",
+            "Đen",
+            "Xanh dương"
+        ],
+        "images": [
+            "redmi-13c.png",
+            "redmi-13c-box.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 189,
+        "name": "OPPO Reno11 F 5G",
+        "price": 8990000,
+        "category": "Điện thoại",
+        "image": "oppo-reno11f.png",
+        "specs": {
+            "Camera": "64MP",
+            "Sạc": "67W",
+            "Màn hình": "AMOLED 120Hz"
+        },
+        "brand": "OPPO",
+        "colors": [
+            "Xanh",
+            "Tím",
+            "Đen"
+        ],
+        "images": [
+            "oppo-reno11f.png",
+            "oppo-reno11f-back.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 190,
+        "name": "OPPO A98 5G",
+        "price": 7490000,
+        "category": "Điện thoại",
+        "image": "oppo-a98.png",
+        "specs": {
+            "Màn hình": "120Hz",
+            "Sạc": "67W",
+            "Kính hiển vi": "40x"
+        },
+        "brand": "OPPO",
+        "colors": [
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "oppo-a98.png",
+            "oppo-a98-cam.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 191,
+        "name": "OPPO A58",
+        "price": 4990000,
+        "category": "Điện thoại",
+        "image": "oppo-a58.png",
+        "specs": {
+            "Màn hình": "FHD+ Sunlight",
+            "Loa": "Kép âm thanh nổi",
+            "Sạc": "33W"
+        },
+        "brand": "OPPO",
+        "colors": [
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "oppo-a58.png",
+            "oppo-a58-back.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 192,
+        "name": "OPPO A18",
+        "price": 3290000,
+        "category": "Điện thoại",
+        "image": "oppo-a18.png",
+        "specs": {
+            "Pin": "5000 mAh",
+            "RAM": "4GB+4GB",
+            "Màn hình": "90Hz"
+        },
+        "brand": "OPPO",
+        "colors": [
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "oppo-a18.png",
+            "oppo-a18-side.png"
+        ],
+        "stock": 80
+    },
+    {
+        "id": 193,
+        "name": "realme 11",
+        "price": 6490000,
+        "category": "Điện thoại",
+        "image": "realme-11.png",
+        "specs": {
+            "Camera": "108MP",
+            "Sạc": "67W",
+            "Chip": "Helio G99"
+        },
+        "brand": "realme",
+        "colors": [
+            "Vàng",
+            "Đen"
+        ],
+        "images": [
+            "realme-11.png",
+            "realme-11-gold.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 194,
+        "name": "realme C67",
+        "price": 5290000,
+        "category": "Điện thoại",
+        "image": "realme-c67.png",
+        "specs": {
+            "Camera": "108MP Zoom 3x",
+            "Chip": "Snapdragon 685",
+            "Pin": "5000 mAh"
+        },
+        "brand": "realme",
+        "colors": [
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "realme-c67.png",
+            "realme-c67-box.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 195,
+        "name": "realme Note 50",
+        "price": 2490000,
+        "category": "Điện thoại",
+        "image": "realme-note-50.png",
+        "specs": {
+            "Màn hình": "90Hz",
+            "Mỏng": "7.99mm",
+            "Kháng nước": "IP54"
+        },
+        "brand": "realme",
+        "colors": [
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "realme-note-50.png",
+            "realme-note-50-side.png"
+        ],
+        "stock": 90
+    },
+    {
+        "id": 196,
+        "name": "vivo V30e",
+        "price": 9490000,
+        "category": "Điện thoại",
+        "image": "vivo-v30e.png",
+        "specs": {
+            "Màn hình": "Cong 3D",
+            "Pin": "5500 mAh",
+            "Camera": "Sony IMX882"
+        },
+        "brand": "vivo",
+        "colors": [
+            "Nâu",
+            "Trắng"
+        ],
+        "images": [
+            "vivo-v30e.png",
+            "vivo-v30e-ring.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 197,
+        "name": "vivo Y100",
+        "price": 7290000,
+        "category": "Điện thoại",
+        "image": "vivo-y100.png",
+        "specs": {
+            "Sạc": "80W",
+            "Màn hình": "AMOLED 120Hz",
+            "Loa": "Kép"
+        },
+        "brand": "vivo",
+        "colors": [
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "vivo-y100.png",
+            "vivo-y100-back.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 198,
+        "name": "vivo Y17s",
+        "price": 3990000,
+        "category": "Điện thoại",
+        "image": "vivo-y17s.png",
+        "specs": {
+            "Camera": "50MP",
+            "Pin": "5000 mAh",
+            "Sáng": "840 nits"
+        },
+        "brand": "vivo",
+        "colors": [
+            "Tím",
+            "Xanh"
+        ],
+        "images": [
+            "vivo-y17s.png",
+            "vivo-y17s-box.png"
+        ],
+        "stock": 55
+    },
+    {
+        "id": 199,
+        "name": "vivo Y03",
+        "price": 2990000,
+        "category": "Điện thoại",
+        "image": "vivo-y03.png",
+        "specs": {
+            "Màn hình": "90Hz",
+            "Loa": "150% âm lượng",
+            "Pin": "5000 mAh"
+        },
+        "brand": "vivo",
+        "colors": [
+            "Xanh",
+            "Đen"
+        ],
+        "images": [
+            "vivo-y03.png",
+            "vivo-y03-side.png"
+        ],
+        "stock": 70
+    },
+    {
+        "id": 200,
+        "name": "iPhone 14",
+        "price": 17490000,
+        "category": "Điện thoại",
+        "image": "iphone-14.png",
+        "specs": {
+            "Màn hình": "6.1 OLED",
+            "CPU": "A15 Bionic",
+            "RAM": "6GB"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Xanh",
+            "Tím",
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "iphone-14.png",
+            "iphone-14-all.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 201,
+        "name": "iPhone 12",
+        "price": 12490000,
+        "category": "Điện thoại",
+        "image": "iphone-12.png",
+        "specs": {
+            "Màn hình": "6.1 OLED",
+            "CPU": "A14 Bionic",
+            "Kết nối": "5G"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Xanh",
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "iphone-12.png",
+            "iphone-12-box.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 202,
+        "name": "iPhone 11",
+        "price": 9990000,
+        "category": "Điện thoại",
+        "image": "iphone-11.png",
+        "specs": {
+            "Màn hình": "6.1 LCD",
+            "CPU": "A13 Bionic",
+            "Camera": "Góc rộng"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "iphone-11.png",
+            "iphone-11-side.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 203,
+        "name": "Nokia G22",
+        "price": 3590000,
+        "category": "Điện thoại",
+        "image": "nokia-g22.png",
+        "specs": {
+            "Sửa chữa": "Dễ dàng QuickFix",
+            "Pin": "3 ngày",
+            "Bảo hành": "3 năm"
+        },
+        "brand": "Nokia",
+        "colors": [
+            "Xanh",
+            "Xám"
+        ],
+        "images": [
+            "nokia-g22.png",
+            "nokia-g22-fix.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 204,
+        "name": "Nokia C21 Plus",
+        "price": 2190000,
+        "category": "Điện thoại",
+        "image": "nokia-c21-plus.png",
+        "specs": {
+            "Màn hình": "6.5 HD+",
+            "Vỏ": "Polycarbonate",
+            "Pin": "5050 mAh"
+        },
+        "brand": "Nokia",
+        "colors": [
+            "Xám",
+            "Xanh"
+        ],
+        "images": [
+            "nokia-c21-plus.png",
+            "nokia-c21-plus-back.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 205,
+        "name": "Nokia 105 4G",
+        "price": 820000,
+        "category": "Điện thoại",
+        "image": "nokia-105-4g.png",
+        "specs": {
+            "Kết nối": "4G VoLTE",
+            "Pin": "Nhiều ngày",
+            "Tính năng": "FM không dây"
+        },
+        "brand": "Nokia",
+        "colors": [
+            "Đen",
+            "Xanh"
+        ],
+        "images": [
+            "nokia-105-4g.png",
+            "nokia-105-4g-keypad.png"
+        ],
+        "stock": 149
+    },
+    {
+        "id": 206,
+        "name": "MacBook Air M2 13 inch",
+        "price": 24990000,
+        "category": "Laptop",
+        "image": "macbook-air-m2.png",
+        "specs": {
+            "CPU": "Apple M2",
+            "RAM": "8GB",
+            "SSD": "256GB",
+            "Màn hình": "Liquid Retina"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Midnight",
+            "Starlight"
+        ],
+        "images": [
+            "macbook-air-m2.png",
+            "macbook-air-m2-side.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 207,
+        "name": "MacBook Air M3 15 inch",
+        "price": 32990000,
+        "category": "Laptop",
+        "image": "macbook-air-m3-15.png",
+        "specs": {
+            "CPU": "Apple M3",
+            "RAM": "8GB",
+            "SSD": "256GB",
+            "Màn hình": "15.3 inch"
+        },
+        "brand": "Apple",
+        "colors": [
+            "Space Grey",
+            "Silver"
+        ],
+        "images": [
+            "macbook-air-m3-15.png",
+            "macbook-air-m3-15-open.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 208,
+        "name": "Asus TUF Gaming A15",
+        "price": 21990000,
+        "category": "Laptop",
+        "image": "asus-tuf-a15.png",
+        "specs": {
+            "CPU": "Ryzen 7 7735HS",
+            "VGA": "RTX 4050",
+            "RAM": "16GB",
+            "Màn hình": "144Hz"
+        },
+        "brand": "Asus",
+        "colors": [
+            "Xám Mecha"
+        ],
+        "images": [
+            "asus-tuf-a15.png",
+            "asus-tuf-a15-kb.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 209,
+        "name": "Asus Zenbook 14 OLED",
+        "price": 27990000,
+        "category": "Laptop",
+        "image": "asus-zenbook-14-oled.png",
+        "specs": {
+            "CPU": "Core Ultra 5",
+            "Màn hình": "3K OLED 120Hz",
+            "RAM": "16GB"
+        },
+        "brand": "Asus",
+        "colors": [
+            "Xanh",
+            "Bạc"
+        ],
+        "images": [
+            "asus-zenbook-14-oled.png",
+            "asus-zenbook-14-oled-thin.png"
+        ],
+        "stock": 18
+    },
+    {
+        "id": 210,
+        "name": "Asus ROG Strix G16",
+        "price": 42990000,
+        "category": "Laptop",
+        "image": "asus-rog-strix-g16.png",
+        "specs": {
+            "CPU": "i9 13980HX",
+            "VGA": "RTX 4060",
+            "Màn hình": "16 inch 165Hz"
+        },
+        "brand": "Asus",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "asus-rog-strix-g16.png",
+            "asus-rog-strix-g16-rgb.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 211,
+        "name": "Dell Inspiron 16 5630",
+        "price": 23990000,
+        "category": "Laptop",
+        "image": "dell-inspiron-16-5630.png",
+        "specs": {
+            "CPU": "i5 1340P",
+            "RAM": "16GB",
+            "SSD": "512GB",
+            "Màn hình": "16 inch FHD+"
+        },
+        "brand": "Dell",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "dell-inspiron-16-5630.png",
+            "dell-inspiron-16-5630-open.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 212,
+        "name": "Dell XPS 13 Plus 9320",
+        "price": 45990000,
+        "category": "Laptop",
+        "image": "dell-xps-13-plus.png",
+        "specs": {
+            "CPU": "i7 1360P",
+            "Màn hình": "3.5K OLED Touch",
+            "RAM": "16GB"
+        },
+        "brand": "Dell",
+        "colors": [
+            "Đen Graphite"
+        ],
+        "images": [
+            "dell-xps-13-plus.png",
+            "dell-xps-13-plus-key.png"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 213,
+        "name": "Dell Gaming G15",
+        "price": 26990000,
+        "category": "Laptop",
+        "image": "dell-gaming-g15.png",
+        "specs": {
+            "CPU": "i7 13650HX",
+            "VGA": "RTX 3050",
+            "Màn hình": "120Hz"
+        },
+        "brand": "Dell",
+        "colors": [
+            "Xám đậm"
+        ],
+        "images": [
+            "dell-gaming-g15.png",
+            "dell-gaming-g15-back.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 214,
+        "name": "HP Envy X360 13",
+        "price": 22990000,
+        "category": "Laptop",
+        "image": "hp-envy-x360.png",
+        "specs": {
+            "CPU": "i5 1230U",
+            "Màn hình": "OLED Cảm ứng",
+            "Xoay": "360 độ"
+        },
+        "brand": "HP",
+        "colors": [
+            "Vàng nhạt"
+        ],
+        "images": [
+            "hp-envy-x360.png",
+            "hp-envy-x360-tent.png"
+        ],
+        "stock": 12
+    },
+    {
+        "id": 215,
+        "name": "HP Victus 16",
+        "price": 24490000,
+        "category": "Laptop",
+        "image": "hp-victus-16.png",
+        "specs": {
+            "CPU": "i5 13500H",
+            "VGA": "RTX 4050",
+            "Màn hình": "144Hz"
+        },
+        "brand": "HP",
+        "colors": [
+            "Xanh Performance"
+        ],
+        "images": [
+            "hp-victus-16.png",
+            "hp-victus-16-kb.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 216,
+        "name": "HP 15s fq5229TU",
+        "price": 10990000,
+        "category": "Laptop",
+        "image": "hp-15s.png",
+        "specs": {
+            "CPU": "i3 1215U",
+            "RAM": "8GB",
+            "SSD": "512GB",
+            "Giá": "Sinh viên"
+        },
+        "brand": "HP",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "hp-15s.png",
+            "hp-15s-side.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 217,
+        "name": "Lenovo ThinkBook 14 G6",
+        "price": 15990000,
+        "category": "Laptop",
+        "image": "lenovo-thinkbook-14.png",
+        "specs": {
+            "CPU": "i5 1335U",
+            "RAM": "16GB",
+            "Độ bền": "Chuẩn quân đội"
+        },
+        "brand": "Lenovo",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "lenovo-thinkbook-14.png",
+            "lenovo-thinkbook-14-port.png"
+        ],
+        "stock": 30
+    },
+    {
+        "id": 218,
+        "name": "Lenovo LOQ 15IRH8",
+        "price": 19490000,
+        "category": "Laptop",
+        "image": "lenovo-loq-15.png",
+        "specs": {
+            "CPU": "i5 12450H",
+            "VGA": "RTX 2050",
+            "Màn hình": "144Hz"
+        },
+        "brand": "Lenovo",
+        "colors": [
+            "Xám bão"
+        ],
+        "images": [
+            "lenovo-loq-15.png",
+            "lenovo-loq-15-back.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 219,
+        "name": "Lenovo Yoga Duet 7",
+        "price": 25990000,
+        "category": "Laptop",
+        "image": "lenovo-yoga-duet.png",
+        "specs": {
+            "Thiết kế": "2 trong 1 tháo rời",
+            "Màn hình": "2K Cảm ứng",
+            "Kèm": "Bút"
+        },
+        "brand": "Lenovo",
+        "colors": [
+            "Tím"
+        ],
+        "images": [
+            "lenovo-yoga-duet.png",
+            "lenovo-yoga-duet-pen.png"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 220,
+        "name": "Lenovo Legion Slim 5",
+        "price": 34990000,
+        "category": "Laptop",
+        "image": "lenovo-legion-slim-5.png",
+        "specs": {
+            "CPU": "Ryzen 7 7840HS",
+            "VGA": "RTX 4060",
+            "Màn hình": "165Hz"
+        },
+        "brand": "Lenovo",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "lenovo-legion-slim-5.png",
+            "lenovo-legion-slim-5-thin.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 221,
+        "name": "Acer Swift 3",
+        "price": 16990000,
+        "category": "Laptop",
+        "image": "acer-swift-3.png",
+        "specs": {
+            "CPU": "i5 1240P",
+            "RAM": "16GB",
+            "Màn hình": "2K",
+            "Vỏ": "Nhôm"
+        },
+        "brand": "Acer",
+        "colors": [
+            "Xanh",
+            "Bạc"
+        ],
+        "images": [
+            "acer-swift-3.png",
+            "acer-swift-3-open.png"
+        ],
+        "stock": 22
+    },
+    {
+        "id": 222,
+        "name": "Acer Nitro 16 Phoenix",
+        "price": 29990000,
+        "category": "Laptop",
+        "image": "acer-nitro-16.png",
+        "specs": {
+            "CPU": "Ryzen 7 7735HS",
+            "VGA": "RTX 4050",
+            "LED": "RGB 4 vùng"
+        },
+        "brand": "Acer",
+        "colors": [
+            "Đen logo mới"
+        ],
+        "images": [
+            "acer-nitro-16.png",
+            "acer-nitro-16-logo.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 223,
+        "name": "Acer Aspire 5",
+        "price": 13990000,
+        "category": "Laptop",
+        "image": "acer-aspire-5.png",
+        "specs": {
+            "CPU": "i5 1335U",
+            "RAM": "16GB",
+            "SSD": "512GB"
+        },
+        "brand": "Acer",
+        "colors": [
+            "Xám thép"
+        ],
+        "images": [
+            "acer-aspire-5.png",
+            "acer-aspire-5-side.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 224,
+        "name": "MSI GF63 Thin",
+        "price": 15490000,
+        "category": "Laptop",
+        "image": "msi-gf63.png",
+        "specs": {
+            "CPU": "i5 12450H",
+            "VGA": "RTX 2050",
+            "Trọng lượng": "1.86kg"
+        },
+        "brand": "MSI",
+        "colors": [
+            "Đen phay xước"
+        ],
+        "images": [
+            "msi-gf63.png",
+            "msi-gf63-kb.png"
+        ],
+        "stock": 35
+    },
+    {
+        "id": 225,
+        "name": "MSI Cyborg 15",
+        "price": 22490000,
+        "category": "Laptop",
+        "image": "msi-cyborg-15.png",
+        "specs": {
+            "CPU": "i7 12650H",
+            "VGA": "RTX 4050",
+            "Vỏ": "Trong suốt một phần"
+        },
+        "brand": "MSI",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "msi-cyborg-15.png",
+            "msi-cyborg-15-translucent.png"
+        ],
+        "stock": 12
+    },
+    {
+        "id": 226,
+        "name": "MSI Prestige 13 Evo",
+        "price": 26990000,
+        "category": "Laptop",
+        "image": "msi-prestige-13.png",
+        "specs": {
+            "Trọng lượng": "990g",
+            "CPU": "i7 1360P",
+            "Màn hình": "FHD+"
+        },
+        "brand": "MSI",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "msi-prestige-13.png",
+            "msi-prestige-13-light.png"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 227,
+        "name": "MSI Katana 15",
+        "price": 31990000,
+        "category": "Laptop",
+        "image": "msi-katana-15.png",
+        "specs": {
+            "CPU": "i7 13620H",
+            "VGA": "RTX 4060",
+            "Bàn phím": "RGB 4 vùng"
+        },
+        "brand": "MSI",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "msi-katana-15.png",
+            "msi-katana-15-open.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 228,
+        "name": "Asus Vivobook Go 15",
+        "price": 9990000,
+        "category": "Laptop",
+        "image": "asus-vivobook-go.png",
+        "specs": {
+            "CPU": "Ryzen 5 7520U",
+            "RAM": "16GB",
+            "Giá": "Siêu rẻ"
+        },
+        "brand": "Asus",
+        "colors": [
+            "Bạc",
+            "Đen"
+        ],
+        "images": [
+            "asus-vivobook-go.png",
+            "asus-vivobook-go-side.png"
+        ],
+        "stock": 60
+    },
+    {
+        "id": 229,
+        "name": "Dell Latitude 3540",
+        "price": 14590000,
+        "category": "Laptop",
+        "image": "dell-latitude-3540.png",
+        "specs": {
+            "CPU": "i5 1335U",
+            "Độ bền": "Doanh nghiệp",
+            "Cổng": "Đầy đủ"
+        },
+        "brand": "Dell",
+        "colors": [
+            "Xám"
+        ],
+        "images": [
+            "dell-latitude-3540.png",
+            "dell-latitude-3540-kb.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 230,
+        "name": "HP ProBook 450 G10",
+        "price": 20490000,
+        "category": "Laptop",
+        "image": "hp-probook-450.png",
+        "specs": {
+            "CPU": "i7 1355U",
+            "RAM": "16GB",
+            "Bảo mật": "Vân tay"
+        },
+        "brand": "HP",
+        "colors": [
+            "Bạc"
+        ],
+        "images": [
+            "hp-probook-450.png",
+            "hp-probook-450-fingerprint.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 231,
+        "name": "JBL Clip 4",
+        "price": 1490000,
+        "category": "Âm thanh",
+        "image": "jbl-clip-4.png",
+        "specs": {
+            "Thiết kế": "Móc treo",
+            "Chống nước": "IP67",
+            "Pin": "10h"
+        },
+        "brand": "JBL",
+        "colors": [
+            "Đỏ",
+            "Xanh",
+            "Rằn ri"
+        ],
+        "images": [
+            "jbl-clip-4.png",
+            "jbl-clip-4-back.png"
+        ],
+        "stock": 100
+    },
+    {
+        "id": 232,
+        "name": "JBL Pulse 5",
+        "price": 6490000,
+        "category": "Âm thanh",
+        "image": "jbl-pulse-5.png",
+        "specs": {
+            "Đèn LED": "360 độ",
+            "Âm thanh": "JBL Original Pro",
+            "Pin": "12h"
+        },
+        "brand": "JBL",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "jbl-pulse-5.png",
+            "jbl-pulse-5-light.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 233,
+        "name": "JBL Charge 5",
+        "price": 3690000,
+        "category": "Âm thanh",
+        "image": "jbl-charge-5.png",
+        "specs": {
+            "Tính năng": "Sạc dự phòng",
+            "Pin": "20h",
+            "Chống bụi nước": "IP67"
+        },
+        "brand": "JBL",
+        "colors": [
+            "Xanh",
+            "Đỏ",
+            "Đen"
+        ],
+        "images": [
+            "jbl-charge-5.png",
+            "jbl-charge-5-side.png"
+        ],
+        "stock": 40
+    },
+    {
+        "id": 234,
+        "name": "JBL Tour Pro 2",
+        "price": 5990000,
+        "category": "Âm thanh",
+        "image": "jbl-tour-pro-2.png",
+        "specs": {
+            "Hộp sạc": "Màn hình cảm ứng",
+            "Chống ồn": "True ANC",
+            "Pin": "40h"
+        },
+        "brand": "JBL",
+        "colors": [
+            "Đen",
+            "Vàng"
+        ],
+        "images": [
+            "jbl-tour-pro-2.png",
+            "jbl-tour-pro-2-screen.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 235,
+        "name": "Sony WF-1000XM5",
+        "price": 5990000,
+        "category": "Âm thanh",
+        "image": "sony-wf-1000xm5.png",
+        "specs": {
+            "Loại": "True Wireless",
+            "Chống ồn": "Đỉnh cao",
+            "Driver": "Dynamic Driver X"
+        },
+        "brand": "Sony",
+        "colors": [
+            "Đen",
+            "Bạc"
+        ],
+        "images": [
+            "sony-wf-1000xm5.png",
+            "sony-wf-1000xm5-case.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 236,
+        "name": "Sony ULT WEAR",
+        "price": 4490000,
+        "category": "Âm thanh",
+        "image": "sony-ult-wear.png",
+        "specs": {
+            "Bass": "ULT Button",
+            "Chống ồn": "Có",
+            "Pin": "30h"
+        },
+        "brand": "Sony",
+        "colors": [
+            "Đen",
+            "Trắng",
+            "Xám"
+        ],
+        "images": [
+            "sony-ult-wear.png",
+            "sony-ult-wear-folded.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 237,
+        "name": "Sony SRS-XE300",
+        "price": 2990000,
+        "category": "Âm thanh",
+        "image": "sony-srs-xe300.png",
+        "specs": {
+            "Loa": "Line-Shape Diffuser",
+            "Pin": "24h",
+            "Sạc nhanh": "Có"
+        },
+        "brand": "Sony",
+        "colors": [
+            "Xanh",
+            "Bạc",
+            "Đen"
+        ],
+        "images": [
+            "sony-srs-xe300.png",
+            "sony-srs-xe300-stand.png"
+        ],
+        "stock": 15
+    },
+    {
+        "id": 238,
+        "name": "Marshall Willen",
+        "price": 2690000,
+        "category": "Âm thanh",
+        "image": "marshall-willen.png",
+        "specs": {
+            "Kích thước": "Nhỏ gọn",
+            "Chống nước": "IP67",
+            "Pin": "15h"
+        },
+        "brand": "Marshall",
+        "colors": [
+            "Đen vàng",
+            "Kem"
+        ],
+        "images": [
+            "marshall-willen.png",
+            "marshall-willen-strap.png"
+        ],
+        "stock": 50
+    },
+    {
+        "id": 239,
+        "name": "Marshall Middleton",
+        "price": 7990000,
+        "category": "Âm thanh",
+        "image": "marshall-middleton.png",
+        "specs": {
+            "Âm thanh": "Stereo 360",
+            "Pin": "20h",
+            "Tính năng": "Sạc ngược"
+        },
+        "brand": "Marshall",
+        "colors": [
+            "Đen vàng"
+        ],
+        "images": [
+            "marshall-middleton.png",
+            "marshall-middleton-top.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 240,
+        "name": "Marshall Stanmore III",
+        "price": 9690000,
+        "category": "Âm thanh",
+        "image": "marshall-stanmore-iii.png",
+        "specs": {
+            "Công suất": "80W",
+            "Nguồn": "Trực tiếp",
+            "Kết nối": "RCA\/Bluetooth"
+        },
+        "brand": "Marshall",
+        "colors": [
+            "Đen",
+            "Kem",
+            "Nâu"
+        ],
+        "images": [
+            "marshall-stanmore-iii.png",
+            "marshall-stanmore-iii-room.png"
+        ],
+        "stock": 8
+    },
+    {
+        "id": 241,
+        "name": "Bose SoundLink Revolve+ II",
+        "price": 7990000,
+        "category": "Âm thanh",
+        "image": "bose-revolve-plus-ii.png",
+        "specs": {
+            "Âm thanh": "360 độ",
+            "Pin": "17h",
+            "Quai xách": "Tiện lợi"
+        },
+        "brand": "Bose",
+        "colors": [
+            "Đen",
+            "Bạc"
+        ],
+        "images": [
+            "bose-revolve-plus-ii.png",
+            "bose-revolve-plus-ii-handle.png"
+        ],
+        "stock": 12
+    },
+    {
+        "id": 242,
+        "name": "Bose QuietComfort Earbuds II",
+        "price": 6990000,
+        "category": "Âm thanh",
+        "image": "bose-qc-earbuds-ii.png",
+        "specs": {
+            "Chống ồn": "Tốt nhất thế giới",
+            "Fit": "CustomTune",
+            "Pin": "6h"
+        },
+        "brand": "Bose",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "bose-qc-earbuds-ii.png",
+            "bose-qc-earbuds-ii-case.png"
+        ],
+        "stock": 18
+    },
+    {
+        "id": 243,
+        "name": "Bose Smart Soundbar 600",
+        "price": 13990000,
+        "category": "Âm thanh",
+        "image": "bose-soundbar-600.png",
+        "specs": {
+            "Công nghệ": "Dolby Atmos",
+            "Kết nối": "HDMI eARC",
+            "Kích thước": "Nhỏ gọn"
+        },
+        "brand": "Bose",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "bose-soundbar-600.png",
+            "bose-soundbar-600-tv.png"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 244,
+        "name": "Sennheiser Momentum True Wireless 3",
+        "price": 4990000,
+        "category": "Âm thanh",
+        "image": "sennheiser-mtw3.png",
+        "specs": {
+            "Âm thanh": "Hi-Fi",
+            "Chống ồn": "Adaptive",
+            "Pin": "28h"
+        },
+        "brand": "Sennheiser",
+        "colors": [
+            "Đen",
+            "Xám",
+            "Trắng"
+        ],
+        "images": [
+            "sennheiser-mtw3.png",
+            "sennheiser-mtw3-case.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 245,
+        "name": "Sennheiser Accentum Plus",
+        "price": 4690000,
+        "category": "Âm thanh",
+        "image": "sennheiser-accentum-plus.png",
+        "specs": {
+            "Pin": "50h",
+            "Sạc nhanh": "10p = 5h",
+            "Cảm ứng": "Chạm"
+        },
+        "brand": "Sennheiser",
+        "colors": [
+            "Đen",
+            "Trắng"
+        ],
+        "images": [
+            "sennheiser-accentum-plus.png",
+            "sennheiser-accentum-plus-side.png"
+        ],
+        "stock": 25
+    },
+    {
+        "id": 246,
+        "name": "Anker Soundcore Liberty 4",
+        "price": 2990000,
+        "category": "Âm thanh",
+        "image": "anker-liberty-4.png",
+        "specs": {
+            "Tính năng": "Đo nhịp tim",
+            "Âm thanh": "ACAA 3.0",
+            "Pin": "28h"
+        },
+        "brand": "Anker",
+        "colors": [
+            "Đen",
+            "Trắng",
+            "Xanh"
+        ],
+        "images": [
+            "anker-liberty-4.png",
+            "anker-liberty-4-open.png"
+        ],
+        "stock": 29
+    },
+    {
+        "id": 247,
+        "name": "Anker Soundcore Space Q45",
+        "price": 3490000,
+        "category": "Âm thanh",
+        "image": "anker-space-q45.png",
+        "specs": {
+            "Chống ồn": "98%",
+            "Pin": "50h (ANC)",
+            "Kết nối": "Đa điểm"
+        },
+        "brand": "Anker",
+        "colors": [
+            "Đen",
+            "Trắng",
+            "Xanh"
+        ],
+        "images": [
+            "anker-space-q45.png",
+            "anker-space-q45-fold.png"
+        ],
+        "stock": 20
+    },
+    {
+        "id": 248,
+        "name": "Anker Soundcore Rave Neo 2",
+        "price": 3990000,
+        "category": "Âm thanh",
+        "image": "anker-rave-neo-2.png",
+        "specs": {
+            "Công suất": "80W",
+            "Chống nước": "IPX7",
+            "Pin": "18h"
+        },
+        "brand": "Anker",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "anker-rave-neo-2.png",
+            "anker-rave-neo-2-light.png"
+        ],
+        "stock": 10
+    },
+    {
+        "id": 249,
+        "name": "Sony SRS-XV500",
+        "price": 7990000,
+        "category": "Âm thanh",
+        "image": "sony-srs-xv500.png",
+        "specs": {
+            "Loại": "Loa tiệc tùng",
+            "Pin": "25h",
+            "Tính năng": "Karaoke"
+        },
+        "brand": "Sony",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "sony-srs-xv500.png",
+            "sony-srs-xv500-top.png"
+        ],
+        "stock": 5
+    },
+    {
+        "id": 250,
+        "name": "Marshall Minor III",
+        "price": 2990000,
+        "category": "Âm thanh",
+        "image": "marshall-minor-iii.png",
+        "specs": {
+            "Loại": "Earbuds",
+            "Pin": "25h",
+            "Driver": "12mm"
+        },
+        "brand": "Marshall",
+        "colors": [
+            "Đen"
+        ],
+        "images": [
+            "marshall-minor-iii.png",
+            "marshall-minor-iii-case.png"
+        ],
+        "stock": 60
+    }
+]

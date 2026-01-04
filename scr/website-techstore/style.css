@@ -1,0 +1,832 @@
+/* =========================================================
+  TECHSTORE - GLOBAL CSS (CLEAN & FIXED) ✅
+  - Header/Footer dùng chung
+  - Sticky Banner: Banner trượt theo danh sách sản phẩm
+  - Banner chính: 1920x500 (3.84:1)
+  - Brand strip: Logo to, full hàng
+========================================================= */
+
+/* ===== TOKENS ===== */
+:root{
+  --brand:#2563eb;
+  --brand-2:#1d4ed8;
+  --light:#fff;
+  --muted:#6b7280;
+  --border:#e5e7eb;
+  --bg:#f6f7fb;
+  --shadow: 0 10px 30px rgba(15,23,42,.06);
+
+  --radius-lg:18px;
+  --radius-md:14px;
+  --radius-sm:12px;
+}
+
+/* ===== RESET NHẸ ===== */
+*{ box-sizing:border-box; }
+img{ max-width:100%; height:auto; }
+a{ color:inherit; }
+body{ background: var(--bg); }
+
+/* ===== TOPBAR ===== */
+.topbar{
+  background:#f8f9fa;
+  border-bottom:1px solid var(--border);
+  padding:.35rem 0;
+  font-size:.85rem;
+}
+
+/* =========================================================
+  HEADER (GLOBAL)
+========================================================= */
+.ts-headerSticky{
+  position: sticky;
+  top: 0;
+  z-index: 1200;
+  background:#fff;
+  border-bottom:1px solid var(--border);
+  box-shadow: 0 8px 24px rgba(15, 23, 42, .06);
+}
+.ts-headerSticky .header{ background: transparent; }
+
+/* Logo */
+.ts-logo{
+  display:block;
+  height:52px;
+  width:auto;
+  object-fit:contain;
+}
+@media (max-width:576px){
+  .ts-logo{ height:42px; }
+}
+
+/* Search */
+.search .input-group{
+  width:100%;
+  border-radius:14px;
+  overflow:hidden;
+  box-shadow: 0 6px 18px rgba(16,24,40,0.04);
+}
+.search .input-group-text{
+  background:#fff;
+  border:1px solid var(--border);
+  border-right:0;
+  color:#64748b;
+}
+.search .form-control{
+  border:1px solid var(--border);
+  border-left:0;
+  min-height:44px;
+  padding:.62rem .8rem;
+  outline:none;
+  box-shadow:none;
+  background:#fff;
+}
+.search .form-control:focus{
+  border-color: rgba(37,99,235,.55);
+  box-shadow: 0 10px 26px rgba(37,99,235,.10);
+}
+
+/* Header buttons */
+.btn-cart-main,
+.btn-account-main{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:.45rem;
+  padding:.45rem .95rem;
+  height:40px;
+  border-radius:999px;
+  text-decoration:none;
+  white-space:nowrap;
+  font-weight:800;
+  transition:.15s;
+}
+.btn-cart-main{
+  border:1px solid rgba(37,99,235,.25);
+  background:rgba(37,99,235,.08);
+  color:var(--brand);
+}
+.btn-cart-main:hover{
+  background:var(--brand);
+  color:#fff;
+  border-color:var(--brand);
+  box-shadow: 0 10px 24px rgba(37,99,235,.20);
+  transform: translateY(-1px);
+}
+.btn-account-main{
+  border:1px solid rgba(15,23,42,.18);
+  background:#fff;
+  color:#0f172a;
+}
+.btn-account-main:hover{
+  background:#0f172a;
+  color:#fff;
+  border-color:#0f172a;
+  transform: translateY(-1px);
+}
+
+/* Dropdown */
+.ts-headerSticky .dropdown-menu{
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, .14);
+  padding: 8px;
+}
+.ts-headerSticky .dropdown-item{
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+.ts-headerSticky .dropdown-item:hover{
+  background: #f1f5f9;
+}
+
+/* Header responsive */
+@media (max-width: 575.98px){
+  .ts-headerSticky .header .container{
+    flex-wrap: wrap;
+    gap: 10px !important;
+  }
+  .ts-headerSticky .brand{ flex: 0 0 auto; }
+  .ts-headerSticky .search{
+    flex: 1 1 100%;
+    width: 100%;
+  }
+  .search .form-control{ min-height:42px; }
+}
+
+/* =========================================================
+  FOOTER (GLOBAL)
+========================================================= */
+.footer{
+  margin-top:auto;
+  background: linear-gradient(180deg, #0f1724 0%, #0b0c0e 100%);
+  color:#d1d5db;
+  padding: 28px 0 28px;
+  font-size:.95rem;
+  border-top: 1px solid rgba(255,255,255,.08);
+}
+.footer .title{ color:#fff; font-weight:900; letter-spacing:.2px; }
+.footer p{ color:#cbd5e1; line-height:1.55; }
+.footer a{ color:#cbd5e1; text-decoration:none; transition:.15s; }
+.footer a:hover{ color:#fff; text-decoration: underline; }
+.footer .footer-grid{
+  display:grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 2rem;
+}
+.footer ul{ margin:0; padding:0; }
+.footer li{ list-style:none; margin: .35rem 0; }
+@media (max-width: 991.98px){
+  .footer .footer-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 575.98px){
+  .footer .footer-grid{ grid-template-columns: 1fr; gap: 1.2rem; }
+}
+
+/* =========================================================
+  MOBILE TABBAR (GLOBAL)
+========================================================= */
+.mobile-tabbar{
+  position: sticky;
+  bottom: 0;
+  z-index: 1300;
+  background:#fff;
+  border-top: 1px solid var(--border);
+  box-shadow: 0 -10px 22px rgba(15,23,42,.06);
+  display:flex;
+  justify-content:space-around;
+  padding: 8px 6px;
+}
+.mobile-tabbar .tab-item{
+  width:20%;
+  text-decoration:none;
+  color:#0f172a;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:4px;
+  font-size:12px;
+  font-weight:700;
+}
+.mobile-tabbar .tab-item i{ font-size:18px; }
+.mobile-tabbar .tab-item.active{ color: var(--brand); }
+
+/* =========================================================
+  HOME ONLY (body.ts-home)
+========================================================= */
+.ts-home{
+  margin:0;
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
+  background:var(--bg);
+  font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  color:#0f172a;
+}
+.ts-home .ts-section{ padding: 18px 0; }
+
+/* =========================================================
+  HERO / BANNER (1920x500)
+========================================================= */
+.ts-home .ts-heroFull{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+@media (max-width: 575.98px){
+  .ts-home .ts-heroFull{
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
+
+.ts-home .hero{
+  background:#fff;
+  border-radius: var(--radius-lg);
+  overflow:hidden;
+  box-shadow: var(--shadow);
+}
+
+.ts-home .hero--banner .carousel-item{
+  aspect-ratio: 1920 / 500; /* 3.84:1 */
+  background:#fff;
+}
+.ts-home .hero--banner .carousel-item img{
+  width:100%;
+  height:100%;
+  display:block;
+  object-fit: cover;
+  object-position:center;
+}
+@media (max-width: 575.98px){
+  .ts-home .hero--banner .carousel-item img{
+    object-fit: contain; /* mobile: thấy đủ chữ */
+    background:#fff;
+  }
+}
+
+/* =========================================================
+  POLICY STRIP
+========================================================= */
+.ts-home .policy-strip .box{
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 16px 10px;
+  transition:.15s;
+}
+.ts-home .policy-strip .box i{
+  font-size:1.45rem;
+  margin-bottom:.3rem;
+  color: var(--brand);
+}
+.ts-home .policy-strip .box:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 14px 28px rgba(15,23,42,.06);
+}
+
+/* =========================================================
+  NAV DANH MỤC
+========================================================= */
+.ts-home .ts-catnav{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+.ts-home .ts-pill{
+  padding:.55rem .95rem !important;
+  border-radius:999px !important;
+  border:1px solid var(--border);
+  background:#fff;
+  color:#0f172a !important;
+  font-weight:800;
+}
+.ts-home .ts-pill:hover{
+  color:var(--brand) !important;
+  border-color: rgba(37,99,235,.25);
+  background: rgba(37,99,235,.06);
+}
+.ts-home .ts-pill.active{
+  color:var(--brand) !important;
+  border-color: rgba(37,99,235,.35);
+  background: rgba(37,99,235,.10);
+}
+
+.ts-home .ts-mchips{ display:none !important; }
+
+.ts-home .ts-catnav .btn.btn-light{
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background:#fff;
+  font-weight:900;
+  padding: .55rem .95rem;
+}
+
+/* =========================================================
+  MOBILE TOP PROMOS
+========================================================= */
+.ts-home .ts-mtop{ display:flex; flex-direction:column; gap:10px; }
+.ts-home .ts-mtop__scroll{
+  display:flex;
+  gap:10px;
+  overflow:auto;
+  padding-bottom:4px;
+  scroll-snap-type:x mandatory;
+}
+.ts-home .ts-mpromo{
+  position:relative;
+  flex: 0 0 80%;
+  max-width: 80%;
+  border-radius: 16px;
+  overflow:hidden;
+  background:#fff;
+  border:1px solid var(--border);
+  box-shadow: 0 10px 22px rgba(15,23,42,.05);
+  text-decoration:none;
+  scroll-snap-align:start;
+  min-height: 92px;
+}
+.ts-home .ts-mpromo img{
+  width:100%;
+  height:100%;
+  object-fit: cover;
+  display:block;
+}
+.ts-home .ts-mpromo__txt{
+  position:absolute;
+  left:12px;
+  bottom:10px;
+  color:#fff;
+  text-shadow: 0 6px 18px rgba(0,0,0,.35);
+}
+.ts-home .ts-mpromo__txt .t{ font-weight:950; font-size:15px; line-height:1.1; }
+.ts-home .ts-mpromo__txt .d{ font-weight:700; font-size:12px; opacity:.95; }
+
+/* =========================================================
+  BRAND STRIP
+========================================================= */
+.ts-home .ts-brandstrip{
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 10px 12px;
+  box-shadow: 0 6px 20px rgba(15,23,42,.04);
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+.ts-home .ts-brandstrip__label{
+  font-weight:950;
+  white-space:nowrap;
+}
+.ts-home .ts-brandstrip__list{
+  flex: 1 1 auto;
+  display:flex;
+  flex-wrap: wrap; 
+  gap: 10px;
+  align-items:center;
+  justify-content:flex-start;
+  min-width: 0;
+}
+
+.ts-home .ts-brandbtn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  height:56px; 
+  min-width:128px;
+  padding: 0 14px;
+  border-radius: 14px;
+  border:1px solid var(--border);
+  background:#fff;
+  text-decoration:none;
+  color:#0f172a;
+  font-weight:950;
+  transition:.15s;
+  overflow:hidden;
+}
+.ts-home .ts-brandbtn img{
+  display:block;
+  max-height: 34px;
+  max-width: 120px;
+  width:auto !important;
+  height:auto !important;
+  object-fit: contain;
+  object-position:center;
+}
+.ts-home .ts-brandbtn:hover{
+  border-color: rgba(37,99,235,.30);
+  box-shadow: 0 8px 18px rgba(37,99,235,.10);
+  transform: translateY(-1px);
+}
+.ts-home .ts-brandbtn.active{
+  border-color: rgba(37,99,235,.55);
+  background: rgba(37,99,235,.08);
+  color: var(--brand);
+}
+
+@media (max-width: 575.98px){
+  .ts-home .ts-brandstrip{
+    padding: 10px;
+    gap:10px;
+  }
+  .ts-home .ts-brandbtn{
+    height:52px;
+    min-width: 118px;
+    border-radius: 14px;
+  }
+  .ts-home .ts-brandbtn img{
+    max-height: 32px;
+    max-width: 112px;
+  }
+}
+
+/* =========================================================
+  SECTION HEAD
+========================================================= */
+.ts-home .ts-secHead{
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:12px;
+  margin-bottom: 10px;
+}
+.ts-home .ts-h{ font-weight:950; font-size:1.35rem; letter-spacing:.2px; }
+.ts-home .ts-sub{ color: var(--muted); margin-top:2px; }
+.ts-home .ts-secHead__more{
+  text-decoration:none;
+  font-weight:900;
+  color: var(--brand);
+  border:1px solid rgba(37,99,235,.22);
+  background: rgba(37,99,235,.08);
+  padding: .45rem .85rem;
+  border-radius: 999px;
+}
+.ts-home .ts-secHead__more:hover{
+  background: var(--brand);
+  color:#fff;
+  border-color: var(--brand);
+}
+
+/* =========================================================
+  CATEGORY BLOCK (STICKY BANNER FIXED) ✅
+  - Banner bên trái tự trượt theo khi cuộn
+  - Không bị kéo dãn, không bị khoảng trắng
+========================================================= */
+.ts-home .ts-catblock{
+  display:grid;
+  grid-template-columns: 260px 1fr;
+  gap: 14px;
+  /* Start: Giúp cột banner không bị kéo dãn theo grid sản phẩm */
+  align-items: start;
+}
+
+.ts-home .ts-catblock__banner{
+  display:block;
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow:hidden;
+  box-shadow: var(--shadow);
+  text-decoration:none;
+
+  /* CẤU HÌNH STICKY */
+  height: auto !important; /* Chiều cao tự nhiên theo ảnh */
+  min-height: auto;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 90px; /* Cách mép trên 90px để không bị header che */
+  z-index: 10;
+}
+
+.ts-home .ts-catblock__banner img{
+  width:100%;
+  height:auto; /* Ảnh giữ đúng tỷ lệ gốc */
+  display:block;
+  object-fit: contain;
+}
+
+.ts-home .ts-catblock__grid{
+  display:grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+.ts-home .ts-catblock__item{ min-width:0; }
+
+/* =========================================================
+  PRODUCT CARD (HOME)
+========================================================= */
+.ts-home .ts-card{
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+  height:100%;
+  box-shadow: 0 6px 18px rgba(15,23,42,.04);
+  transition:.15s;
+}
+.ts-home .ts-card:hover{
+  transform: translateY(-4px);
+  box-shadow: 0 16px 34px rgba(15,23,42,.08);
+}
+.ts-home .ts-card__media{
+  display:block;
+  background:#f8fafc;
+  padding: 12px;
+  aspect-ratio: 1 / 1;
+}
+.ts-home .ts-card__media img{
+  width:100%;
+  height:100%;
+  object-fit: contain;
+  display:block;
+}
+.ts-home .ts-noimg{
+  height:100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color:var(--muted);
+  font-size:.9rem;
+}
+.ts-home .ts-card__body{
+  padding: 12px 12px 14px;
+  display:flex;
+  flex-direction:column;
+  gap:6px;
+  flex: 1 1 auto;
+}
+.ts-home .ts-card__name{
+  text-decoration:none;
+  color:#0f172a;
+  font-weight:950;
+  line-height:1.2;
+  min-height: 2.4em;
+}
+.ts-home .ts-card__name:hover{ color: var(--brand); }
+.ts-home .ts-card__meta{ color: var(--muted); font-size:.9rem; }
+.ts-home .ts-card__meta .dot{ margin: 0 6px; }
+.ts-home .ts-card__meta .up{ text-transform: uppercase; letter-spacing:.2px; }
+.ts-home .ts-card__muted{ color: var(--muted); font-size:.9rem; }
+.ts-home .ts-card__star{ color:#f59e0b; font-size:.85rem; letter-spacing:1px; }
+.ts-home .ts-card__price .now{
+  color: var(--brand-2);
+  font-weight: 950;
+  font-size: 1.08rem;
+}
+.ts-home .ts-card__actions{
+  margin-top:auto;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+  padding-top: 6px;
+}
+.ts-home .ts-card .btn{
+  border-radius:999px;
+  font-weight:900;
+}
+
+/* =========================================================
+  WIDE BANNER (ảnh ngăn cách)
+========================================================= */
+.ts-home .ts-wideBanner{
+  display:block;
+  position:relative;
+  width:100%;
+  height:140px;
+  border-radius: var(--radius-lg);
+  overflow:hidden;
+  text-decoration:none;
+  background:#fff;
+  border:1px solid var(--border);
+  box-shadow: 0 10px 24px rgba(15,23,42,.08);
+  transition:.15s ease;
+}
+.ts-home .ts-wideBanner:hover{
+  transform: translateY(-2px);
+  box-shadow: 0 14px 32px rgba(15,23,42,.12);
+}
+.ts-home .ts-wideBanner img{
+  width:100%;
+  height:100%;
+  object-fit: cover;
+  display:block;
+}
+.ts-home .ts-wideBanner__overlay{
+  position:absolute;
+  inset:0;
+  padding: 16px 18px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  gap:4px;
+  background: linear-gradient(
+    90deg,
+    rgba(0,0,0,.55) 0%,
+    rgba(0,0,0,.22) 55%,
+    rgba(0,0,0,.00) 100%
+  );
+  color:#fff;
+}
+.ts-home .ts-wideBanner__overlay .k{
+  font-weight:900;
+  letter-spacing:.12em;
+  font-size:12px;
+  opacity:.95;
+}
+.ts-home .ts-wideBanner__overlay .t{
+  font-weight:950;
+  letter-spacing:-.02em;
+  font-size:20px;
+  line-height:1.2;
+}
+.ts-home .ts-wideBanner__overlay .d{
+  opacity:.92;
+  font-weight:700;
+  font-size:14px;
+}
+
+/* =========================================================
+  FILTER LAYOUT
+========================================================= */
+.ts-home .ts-filterLayout{
+  display:grid;
+  grid-template-columns: 280px 1fr;
+  gap: 14px;
+  align-items:start;
+}
+.ts-home .ts-filter{
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius: var(--radius-lg);
+  overflow:hidden;
+  box-shadow: 0 6px 20px rgba(15,23,42,.04);
+}
+.ts-home .ts-filter__head{
+  padding: 12px 14px;
+  border-bottom:1px solid var(--border);
+  font-weight:950;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+.ts-home .ts-filter__group{ padding: 12px 14px; }
+.ts-home .ts-filter__title{ font-weight:950; margin-bottom:10px; }
+.ts-home .ts-filter__brands{
+  display:grid;
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  gap: 10px;
+}
+
+.ts-home .ts-brandMini{
+  height:56px;
+  border-radius: 14px;
+  border:1px solid var(--border);
+  background:#fff;
+  text-decoration:none;
+  color:#0f172a;
+  font-weight:950;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding: 0 10px;
+  transition:.15s;
+  overflow:hidden;
+}
+.ts-home .ts-brandMini img{
+  display:block;
+  max-height: 32px;
+  max-width: 120px;
+  width:auto !important;
+  height:auto !important;
+  object-fit: contain;
+  object-position:center;
+}
+.ts-home .ts-brandMini:hover{
+  border-color: rgba(37,99,235,.30);
+  background: rgba(37,99,235,.06);
+}
+.ts-home .ts-brandMini.active{
+  border-color: rgba(37,99,235,.55);
+  background: rgba(37,99,235,.10);
+  color: var(--brand);
+}
+.ts-home .ts-filter__hint{ padding: 10px 14px 14px; color: var(--muted); }
+
+/* =========================================================
+  FILTER RESULT TOP (count + chips + sort)
+========================================================= */
+.ts-results{ width:100%; }
+
+.ts-results__top{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:12px;
+  flex-wrap:wrap;
+  margin-bottom:12px;
+}
+.ts-results__count{
+  font-weight:600;
+  line-height:1.2;
+}
+.ts-results__chips{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-top:8px;
+}
+.ts-results__chips .chip{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  padding:6px 10px;
+  border:1px solid #e5e7eb;
+  background:#fff;
+  border-radius:999px;
+  font-size:13px;
+  line-height:1;
+  white-space:nowrap;
+}
+.ts-results .chip b{ font-weight:700; }
+
+.ts-results__top .sort{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  flex-wrap:wrap;
+}
+.ts-results__top .sort .label{
+  color:#6b7280;
+  font-weight:600;
+  white-space:nowrap;
+}
+.ts-results__top .sort-list{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+}
+.ts-results__top .sort-list .chip{
+  border:1px solid #e5e7eb;
+  background:#fff;
+  padding:8px 12px;
+  border-radius:999px;
+  font-size:13px;
+  line-height:1;
+  cursor:pointer;
+  white-space:nowrap;
+}
+.ts-results__top .sort-list .chip.active{
+  border-color:#2563eb;
+  background:#eff6ff;
+  color:#1d4ed8;
+  font-weight:700;
+}
+
+/* =========================================================
+  RESPONSIVE GRID (Chung)
+========================================================= */
+@media (max-width:1199.98px){
+  .ts-home .ts-catblock{ grid-template-columns: 240px 1fr; }
+  .ts-home .ts-catblock__grid{ grid-template-columns: repeat(3, minmax(0,1fr)); }
+}
+
+@media (max-width:991.98px){
+  .ts-home .ts-catblock{ grid-template-columns: 1fr; }
+  
+  /* Mobile: Tắt sticky, chuyển banner nằm ngang */
+  .ts-home .ts-catblock__banner{ 
+    position: static; 
+    width: 100%;
+    min-height: auto;
+    max-height: 200px;
+  }
+  .ts-home .ts-catblock__banner img{
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .ts-home .ts-catblock__grid{ grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .ts-home .ts-filterLayout{ grid-template-columns: 1fr; }
+}
+
+@media (max-width:768px){
+  .ts-home .ts-wideBanner{ height:110px; border-radius:16px; }
+  .ts-home .ts-wideBanner__overlay .t{ font-size:16px; }
+  .ts-home .ts-wideBanner__overlay .d{ font-size:13px; }
+}
+
+@media (max-width: 576px){
+  .ts-results__top{ gap:10px; }
+}
+/* Admin tables: fixed layout + ellipsis đẹp */
+.ts-table-fixed { table-layout: fixed; }
+.ts-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ts-mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}

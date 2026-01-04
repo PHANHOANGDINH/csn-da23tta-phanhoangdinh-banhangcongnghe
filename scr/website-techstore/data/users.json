@@ -1,0 +1,123 @@
+[
+    {
+        "email": "phanhoangdinh106@gmail.com",
+        "username": "admin",
+        "role": "admin",
+        "password_hash": "$2y$10$RzXzzTuWtGA.tMr255bjsu9pdc\/1UzBpJufyQhAheDnqajjqjF.Im"
+    },
+    {
+        "email": "thang@gmail.com",
+        "username": "thang",
+        "role": "user",
+        "password_hash": "$2y$10$So5GD\/IFo4a5xPkady0FD.t9f545SAxDVcNDJHvKvT10euCnB9hY6"
+    },
+    {
+        "email": "dinh@gmail.com",
+        "username": "Dinh",
+        "role": "user",
+        "password_hash": "$2y$10$wbnCtoIK3cKHSBoxiDEPVeVBs4lA\/8BV0\/coVmYnKqjBXIXawpeUa"
+    },
+    {
+        "email": "user1@gmail.com",
+        "username": "user1",
+        "role": "user",
+        "password_hash": "$2y$10$ftvrpXX.3VicYDisk0xXJudEz2u0KjlN6nGgf8Ax5oKwAnRE4wqNu"
+    },
+    {
+        "email": "nguyenvanan@gmail.com",
+        "username": "NguyenVanAn",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "tranthibich@yahoo.com",
+        "username": "TranThiBich",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "lehoangnam@gmail.com",
+        "username": "LeHoangNam",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "phamminhtuan@outlook.com",
+        "username": "PhamMinhTuan",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "hoangthimai@gmail.com",
+        "username": "HoangThiMai",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "vudoanthang@gmail.com",
+        "username": "VuDoanThang",
+        "role": "user",
+        "password_hash": "$2y$10$ZoNAGh2\/v9kUL8qhMpPQWeau4r8S9IeJcE6u7cNzNs6X80LH5Bezi",
+        "password": "$2y$10$ZoNAGh2\/v9kUL8qhMpPQWeau4r8S9IeJcE6u7cNzNs6X80LH5Bezi"
+    },
+    {
+        "email": "dangngoclan@gmail.com",
+        "username": "DangNgocLan",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "buivanhung@gmail.com",
+        "username": "BuiVanHung",
+        "role": "staff",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "doanthuha@hotmail.com",
+        "username": "DoanThuHa",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "ngoquanghai@gmail.com",
+        "username": "NgoQuangHai",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "lythithu@gmail.com",
+        "username": "LyThiThu",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "duongvanlong@gmail.com",
+        "username": "DuongVanLong",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "truongminhhieu@gmail.com",
+        "username": "TruongMinhHieu",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "nguyenthingoc@gmail.com",
+        "username": "NguyenThiNgoc",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "phanvankiet@gmail.com",
+        "username": "PhanVanKiet",
+        "role": "user",
+        "password_hash": "$2y$10$TKh8H1.PfQx37YgCzwiKb.KjNyWgaHb9cbcoQgdIVFlYg7B77UdFm"
+    },
+    {
+        "email": "lamh31387@gmail.com",
+        "username": "Tấn Hưng",
+        "password_hash": "$2y$10$bEjZCO4rj7rC1.x\/s8gQ8.oKGqSACUnktq.C4J7ynVX0ChUlrddqi",
+        "role": "user"
+    }
+]

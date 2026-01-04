@@ -1,0 +1,51 @@
+[
+    {
+        "product_id": 1,
+        "username": "user1",
+        "text": "mẫu mã đẹp, shop uy tín",
+        "time": "2025-11-13 20:32",
+        "rating": 5
+    },
+    {
+        "product_id": 1,
+        "username": "user1",
+        "text": "mẫu mã đẹp, shop uy tín",
+        "time": "2025-11-13 20:36",
+        "rating": 5
+    },
+    {
+        "product_id": 1,
+        "username": "thang",
+        "text": "điện thoại rẽ quá shop ơi",
+        "time": "2025-11-14 09:09",
+        "rating": 5
+    },
+    {
+        "product_id": 1,
+        "username": "huynh",
+        "text": "iphone đẹp hàng chuẩn hình",
+        "time": "2025-11-18 12:04",
+        "rating": 5
+    },
+    {
+        "product_id": 2,
+        "username": "thang",
+        "text": "ok shop",
+        "time": "2025-12-02 14:17",
+        "rating": 5
+    },
+    {
+        "product_id": 13,
+        "username": "Dinh",
+        "text": "Giao hàng nhanh, đúng mẫu mã",
+        "time": "2025-12-26 09:44",
+        "rating": 4
+    },
+    {
+        "product_id": 1,
+        "username": "Dinh",
+        "text": "giao hàng chưa tốt",
+        "time": "2025-12-26 09:45",
+        "rating": 3
+    }
+]
